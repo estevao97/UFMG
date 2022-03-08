@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1597870602 source:d:\eng. controle e automação - ufmg\2º período\programação e desenvolvimento de software 2\lpv's\lista encadeada\lista\list.cpp
+	"List.hpp"
+
+1597870732 d:\eng. controle e automação - ufmg\2º período\programação e desenvolvimento de software 2\lpv's\lista encadeada\lista\list.hpp
+	<iostream>
+	<cstdlib>
+
+1597841658 source:d:\eng. controle e automação - ufmg\2º período\programação e desenvolvimento de software 2\lpv's\lista encadeada\lista\main.cpp
+	<iostream>
+	"List.hpp"
+
