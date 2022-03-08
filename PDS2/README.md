@@ -1,0 +1,2 @@
+# Programação e Desenvolvimento de Software 2 - PDS2
+Essa disciplina tinha como objetivo aprofundar um pouco mais os alunos na área de programação, explicando como funciona alguns dos containers da linguagem C++ e algumas de suas vertentes como a programação orientada a objetos, além de ensinar boas práticas de programação. No decorrerer da disciplina foi proposto que os alunos realizassem algumas atividades pŕaticas, utilizando a linguagem C++, para validar o apendizado.
