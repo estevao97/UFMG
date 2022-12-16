@@ -1,0 +1,3 @@
+# Redes de Computadores - TM
+
+Essa disciplina tinha como objetivo apresentar os conceitos básicos de sistemas distribuídos, redes de computador, protocolos e serviços de comunicação, arquitetura de redes de computadores e as camadas inferiores do modelo de referência de ISO: física, enlace e redes. Além disso, fomos apresentados aos conceitos a cerca de redes locais, interligação de redes e especificação de protocolos. No decorrere da disciplina foi proposto que os alunos realizassem algumas atividades pŕaticas, utilizando a linguagem C++, para validar o apendizado. Tais atividades se encontram nas pastas "Trabalho Prático 1" e "Trabalho Prático 2".
