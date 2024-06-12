@@ -1,0 +1,3399 @@
+[
+    {
+        "name": "Sagrada Família",
+        "population": 34395,
+        "area": 2.291,
+        "radius": 0.853960156709354,
+        "coordinates": "-19.90370807990188, -43.931002755610905"
+    },
+    {
+        "name": "Buritis",
+        "population": 29374,
+        "area": 3.823,
+        "radius": 1.103131313525562,
+        "coordinates": "-19.981380219878236, -43.97999410069873"
+    },
+    {
+        "name": "Padre Eustáquio",
+        "population": 28773,
+        "area": 2.969,
+        "radius": 0.9721430203831505,
+        "coordinates": "-19.911630935929924, -43.99388994085537"
+    },
+    {
+        "name": "Lindéia",
+        "population": 25231,
+        "area": 2.012,
+        "radius": 0.8002746347359679,
+        "coordinates": "-19.975343168949514, -44.06321103324825"
+    },
+    {
+        "name": "Santa Mônica",
+        "population": 23883,
+        "area": 2.178,
+        "radius": 0.8326337322666528,
+        "coordinates": "-19.82427209282261, -43.98569562439228"
+    },
+    {
+        "name": "Céu Azul",
+        "population": 23817,
+        "area": 2.748,
+        "radius": 0.9352622986269985,
+        "coordinates": "-19.825845326426823, -44.01030073836063"
+    },
+    {
+        "name": "Santa Cruz",
+        "population": 22306,
+        "area": 1.742,
+        "radius": 0.7446447621061759,
+        "coordinates": "-19.874666132526716, -43.949230891580555"
+    },
+    {
+        "name": "Santo Antônio",
+        "population": 21642,
+        "area": 1.306,
+        "radius": 0.6447578703327558,
+        "coordinates": "-19.945679408512884, -43.94919580828078"
+    },
+    {
+        "name": "Alto Vera Cruz",
+        "population": 21459,
+        "area": 0.888,
+        "radius": 0.5316570124913299,
+        "coordinates": "-19.905390651754452, -43.895211944174754"
+    },
+    {
+        "name": "Jardim dos Comerciários",
+        "population": 21238,
+        "area": 2.016,
+        "radius": 0.8010697413749455,
+        "coordinates": "-19.784435726113166, -43.9786180886802"
+    },
+    {
+        "name": "Piratininga",
+        "population": 21149,
+        "area": 1.694,
+        "radius": 0.7343139295937,
+        "coordinates": "-19.812265391288182, -43.99748383333697"
+    },
+    {
+        "name": "Mantiqueira",
+        "population": 20282,
+        "area": 2.923,
+        "radius": 0.9645827063115014,
+        "coordinates": "-19.80183454416486, -43.99104807763151"
+    },
+    {
+        "name": "Serra",
+        "population": 20277,
+        "area": 1.536,
+        "radius": 0.6992309955789306,
+        "coordinates": "-19.938519936557885, -43.925807196403156"
+    },
+    {
+        "name": "Sion",
+        "population": 19700,
+        "area": 1.195,
+        "radius": 0.6167497985322978,
+        "coordinates": "-19.958048186066623, -43.94198411906261"
+    },
+    {
+        "name": "Lourdes",
+        "population": 18905,
+        "area": 1.258,
+        "radius": 0.6327984172066241,
+        "coordinates": "-19.934831916297107, -43.9482733095548"
+    },
+    {
+        "name": "Santa Amélia",
+        "population": 18188,
+        "area": 2.202,
+        "radius": 0.8372086773180908,
+        "coordinates": "-19.842594743375074, -43.98953101388243"
+    },
+    {
+        "name": "Cabana do Pai Tomás",
+        "population": 17994,
+        "area": 0.504,
+        "radius": 0.40053487068747273,
+        "coordinates": "-19.94481538223006, -44.004064434159226"
+    },
+    {
+        "name": "Santa Efigênia",
+        "population": 17653,
+        "area": 2.1390000000000002,
+        "radius": 0.8251453487399225,
+        "coordinates": "-19.92959243376896, -43.90889846053532"
+    },
+    {
+        "name": "Pindorama",
+        "population": 17579,
+        "area": 1.605,
+        "radius": 0.7147638542378763,
+        "coordinates": "-19.915178262040172, -44.028233738947904"
+    },
+    {
+        "name": "Boa Vista",
+        "population": 17574,
+        "area": 1.248,
+        "radius": 0.6302783019883921,
+        "coordinates": "-19.894513432924896, -43.910504457258966"
+    },
+    {
+        "name": "Gutierrez",
+        "population": 17507,
+        "area": 1.246,
+        "radius": 0.6297730687993915,
+        "coordinates": "-19.93969997333658, -43.963320095125844"
+    },
+    {
+        "name": "Ouro Preto",
+        "population": 17255,
+        "area": 2.363,
+        "radius": 0.867275193379989,
+        "coordinates": "-19.874720807014317, -43.991577888167164"
+    },
+    {
+        "name": "Castelo",
+        "population": 17083,
+        "area": 2.409,
+        "radius": 0.8756760335973297,
+        "coordinates": "-19.88490623356226, -44.00608874236328"
+    },
+    {
+        "name": "Planalto",
+        "population": 16814,
+        "area": 2.5,
+        "radius": 0.8920620580763856,
+        "coordinates": "-19.828547942047287, -43.960453154769716"
+    },
+    {
+        "name": "São João Batista",
+        "population": 16503,
+        "area": 1.847,
+        "radius": 0.766758345100633,
+        "coordinates": "-19.818931771950954, -43.97259254553624"
+    },
+    {
+        "name": "Centro",
+        "population": 16245,
+        "area": 1.952,
+        "radius": 0.7882517984950997,
+        "coordinates": "-19.917608133316016, -43.94772998678981"
+    },
+    {
+        "name": "Goiânia",
+        "population": 16229,
+        "area": 1.955,
+        "radius": 0.7888572922204058,
+        "coordinates": "-19.85838374219355, -43.90548644039261"
+    },
+    {
+        "name": "Jaqueline",
+        "population": 16195,
+        "area": 2.94,
+        "radius": 0.9673836185197393,
+        "coordinates": "-19.80866164593865, -43.94988428776826"
+    },
+    {
+        "name": "Ribeiro de Abreu",
+        "population": 16020,
+        "area": 2.109,
+        "radius": 0.8193384831445516,
+        "coordinates": "-19.824670917654522, -43.90490179866973"
+    },
+    {
+        "name": "Santa Terezinha",
+        "population": 15792,
+        "area": 1.476,
+        "radius": 0.685438102243576,
+        "coordinates": "-19.916012899465468, -43.927142669701645"
+    },
+    {
+        "name": "Santa Tereza",
+        "population": 15607,
+        "area": 1.551,
+        "radius": 0.7026369143953791,
+        "coordinates": "-19.916012899465468, -43.927142669701645"
+    },
+    {
+        "name": "Jardim Felicidade",
+        "population": 15486,
+        "area": 0.811,
+        "radius": 0.508083967169851,
+        "coordinates": "-19.82194465708246, -43.932390370486466"
+    },
+    {
+        "name": "Cidade Nova",
+        "population": 15378,
+        "area": 0.913,
+        "radius": 0.5390889778930755,
+        "coordinates": "-19.884782714280433, -43.92915936415425"
+    },
+    {
+        "name": "Carlos Prates",
+        "population": 15285,
+        "area": 1.896,
+        "radius": 0.776862628914834,
+        "coordinates": "-19.911913459786792, -43.96991582609528"
+    },
+    {
+        "name": "Havaí",
+        "population": 6356,
+        "area": 0.657,
+        "radius": 0.4573068939156182,
+        "coordinates": "-19.951270159138826, -43.98183054647619"
+    },
+    {
+        "name": "Nova Suissa",
+        "population": 15218,
+        "area": 1.251,
+        "radius": 0.6310353933147665,
+        "coordinates": "-19.930262150094748, -43.982885422548875"
+    },
+    {
+        "name": "Conjunto Taquaril",
+        "population": 14977,
+        "area": 1.099,
+        "radius": 0.5914579992831156,
+        "coordinates": "-19.914005756500558, -43.88416382775034"
+    },
+    {
+        "name": "União",
+        "population": 14729,
+        "area": 1.401,
+        "radius": 0.6677964888672976,
+        "coordinates": "-19.883238269286334, -43.92993950893731"
+    },
+    {
+        "name": "Salgado Filho",
+        "population": 14679,
+        "area": 1.448,
+        "radius": 0.6789055274440833,
+        "coordinates": "-19.942718481572204, -43.98794994251554"
+    },
+    {
+        "name": "Araguaia",
+        "population": 14635,
+        "area": 1.344,
+        "radius": 0.6540707049173008,
+        "coordinates": "-19.988461543908315, -44.00821315450454"
+    },
+    {
+        "name": "Glória",
+        "population": 14627,
+        "area": 1.654,
+        "radius": 0.7255925521585719,
+        "coordinates": "-19.899030731850385, -44.01742263389197"
+    },
+    {
+        "name": "Serra Verde",
+        "population": 14005,
+        "area": 4.109,
+        "radius": 1.143649999925325,
+        "coordinates": "-19.785478106415997, -43.96577784802666"
+    },
+    {
+        "name": "São Geraldo",
+        "population": 13974,
+        "area": 1.334,
+        "radius": 0.6516328630211776,
+        "coordinates": "-19.900799571044598, -43.905247161994545"
+    },
+    {
+        "name": "Prado",
+        "population": 13800,
+        "area": 1.584,
+        "radius": 0.7100724327243837,
+        "coordinates": "-19.9300478702522, -43.9719109941383"
+    },
+    {
+        "name": "São Gabriel",
+        "population": 13726,
+        "area": 2.001,
+        "radius": 0.798084007015405,
+        "coordinates": "-19.8636192260859, -43.9288209679918"
+    },
+    {
+        "name": "Tupi B",
+        "population": 13527,
+        "area": 1.302,
+        "radius": 0.6437697350849102,
+        "coordinates": "-19.84122338313648, -43.92162448458707"
+    },
+    {
+        "name": "Paraíso",
+        "population": 13414,
+        "area": 1.32,
+        "radius": 0.6482044814428575,
+        "coordinates": "-19.929224386207, -43.908178161205484"
+    },
+    {
+        "name": "Copacabana",
+        "population": 13333,
+        "area": 1.361,
+        "radius": 0.658194314086759,
+        "coordinates": "-19.830946056645686, -43.99602161081805"
+    },
+    {
+        "name": "Caiçaras",
+        "population": 13150,
+        "area": 2.246,
+        "radius": 0.8455317879114859,
+        "coordinates": "-19.89180070085562, -43.9750152114327"
+    },
+    {
+        "name": "Camargos",
+        "population": 13088,
+        "area": 1.85,
+        "radius": 0.7673807981960539,
+        "coordinates": "-19.93732393199768, -44.02583720355948"
+    },
+    {
+        "name": "Rio Branco",
+        "population": 12768,
+        "area": 1.339,
+        "radius": 0.6528529218745182,
+        "coordinates": "-19.82196531034776, -43.989713062107796"
+    },
+    {
+        "name": "Anchieta",
+        "population": 12740,
+        "area": 0.697,
+        "radius": 0.4710222825621969,
+        "coordinates": "-19.948051898862005, -43.93132939582968"
+    },
+    {
+        "name": "Ipiranga",
+        "population": 12194,
+        "area": 0.892,
+        "radius": 0.5328530927713016,
+        "coordinates": "-19.884162187149443, -43.93739206343618"
+    },
+    {
+        "name": "Milionários",
+        "population": 12175,
+        "area": 1.315,
+        "radius": 0.6469756566762653,
+        "coordinates": "-19.983647662522294, -44.009621566611635"
+    },
+    {
+        "name": "Betânia",
+        "population": 12054,
+        "area": 1.311,
+        "radius": 0.6459909138578882,
+        "coordinates": "-19.962429487391965, -43.99906920686218"
+    },
+    {
+        "name": "Diamante",
+        "population": 11979,
+        "area": 1.844,
+        "radius": 0.7661353862881612,
+        "coordinates": "-19.98742124754688, -44.033527661662966"
+    },
+    {
+        "name": "Floresta",
+        "population": 11841,
+        "area": 1.096,
+        "radius": 0.590650180104463,
+        "coordinates": "-19.919544962852406, -43.93346888133968"
+    },
+    {
+        "name": "Savassi",
+        "population": 11772,
+        "area": 1.186,
+        "radius": 0.6144229203195269,
+        "coordinates": "-19.93916665748756, -43.941263043972945"
+    },
+    {
+        "name": "Jardim Guanabara",
+        "population": 11635,
+        "area": 1.154,
+        "radius": 0.6060772299435893,
+        "coordinates": "-19.826302373580607, -43.94231095303095"
+    },
+    {
+        "name": "Vila Vista Alegre",
+        "population": 11413,
+        "area": 0.37,
+        "radius": 0.3431831258788849,
+        "coordinates": "-19.957443455542023, -43.998282591070264"
+    },
+    {
+        "name": "Tirol",
+        "population": 11372,
+        "area": 1.744,
+        "radius": 0.7450721049029624,
+        "coordinates": "-19.990216857081432, -44.04686306107227"
+    },
+    {
+        "name": "Jardim América",
+        "population": 11177,
+        "area": 0.9199999999999999,
+        "radius": 0.541151637980601,
+        "coordinates": "-19.944714423212393, -43.978865830026315"
+    },
+    {
+        "name": "Caiçara-Adelaide",
+        "population": 10794,
+        "area": 0.779,
+        "radius": 0.49795923662200803,
+        "coordinates": "-19.902616965680913, -43.98361634364099"
+    },
+    {
+        "name": "Concórdia",
+        "population": 10693,
+        "area": 0.915,
+        "radius": 0.5396791137872287,
+        "coordinates": "-19.898568445182416, -43.94453183664496"
+    },
+    {
+        "name": "Tupi A",
+        "population": 10668,
+        "area": 0.912,
+        "radius": 0.5387936675570874,
+        "coordinates": "-19.83305218677322, -43.93085604193264"
+    },
+    {
+        "name": "Minascaixa",
+        "population": 10592,
+        "area": 0.975,
+        "radius": 0.5570925767134184,
+        "coordinates": "-19.81036370951494, -43.96387442292843"
+    },
+    {
+        "name": "Cardoso",
+        "population": 10582,
+        "area": 0.945,
+        "radius": 0.5484549593573589,
+        "coordinates": "-20.00371461732628, -44.01555605201069"
+    },
+    {
+        "name": "Colégio Batista",
+        "population": 10167,
+        "area": 0.777,
+        "radius": 0.49731959700458755,
+        "coordinates": "-19.905969768740324, -43.94172578817744"
+    },
+    {
+        "name": "Barreiro",
+        "population": 10114,
+        "area": 1.583,
+        "radius": 0.7098482583122541,
+        "coordinates": "-19.97931266597319, -44.02753333433513"
+    },
+    {
+        "name": "Europa",
+        "population": 10065,
+        "area": 0.923,
+        "radius": 0.5420332323277225,
+        "coordinates": "-19.798598598942117, -43.97226673163135"
+    },
+    {
+        "name": "Serrano",
+        "population": 9971,
+        "area": 1.082,
+        "radius": 0.5868656548571074,
+        "coordinates": "-19.873892506267207, -44.017564476934"
+    },
+    {
+        "name": "Jardim Alvorada",
+        "population": 9914,
+        "area": 0.9099999999999999,
+        "radius": 0.5382025607773058,
+        "coordinates": "-19.892880956866403, -43.99298335703353"
+    },
+    {
+        "name": "Santo Agostinho",
+        "population": 9881,
+        "area": 0.83,
+        "radius": 0.5140011726956917,
+        "coordinates": "-19.929703158112414, -43.95694661334963"
+    },
+    {
+        "name": "Aparecida",
+        "population": 9830,
+        "area": 0.914,
+        "radius": 0.5393841265480331,
+        "coordinates": "-19.894021464190406, -43.959622966198985"
+    },
+    {
+        "name": "Floramar",
+        "population": 9775,
+        "area": 1.055,
+        "radius": 0.5794971353888638,
+        "coordinates": "-19.83147189177391, -43.94067017681615"
+    },
+    {
+        "name": "Dom Bosco",
+        "population": 9720,
+        "area": 1.119,
+        "radius": 0.5968155180955517,
+        "coordinates": "-19.920126274845845, -44.00608012757937"
+    },
+    {
+        "name": "João Pinheiro",
+        "population": 9640,
+        "area": 0.853,
+        "radius": 0.5210742105638826,
+        "coordinates": "-19.927922006755306, -44.00494845631924"
+    },
+    {
+        "name": "Nossa Senhora de Fátima",
+        "population": 9640,
+        "area": 0.61,
+        "radius": 0.4406461512053774,
+        "coordinates": "-19.93723453460743, -43.911435446025536"
+    },
+    {
+        "name": "Jardim Vitória",
+        "population": 9534,
+        "area": 5.769,
+        "radius": 1.3551124430814916,
+        "coordinates": "-19.856494427853296, -43.89214132219324"
+    },
+    {
+        "name": "Alípio de Melo",
+        "population": 9530,
+        "area": 1.181,
+        "radius": 0.6131263944596227,
+        "coordinates": "-19.89451940945928, -44.0085778919819"
+    },
+    {
+        "name": "Nova Gameleira",
+        "population": 9478,
+        "area": 1.169,
+        "radius": 0.6100034892923575,
+        "coordinates": "-19.93869497140821, -44.00145292396441"
+    },
+    {
+        "name": "Itapoã",
+        "population": 9476,
+        "area": 1.629,
+        "radius": 0.7200880533611116,
+        "coordinates": "-19.84104418200714, -43.96722810699185"
+    },
+    {
+        "name": "Jardim Leblon",
+        "population": 9460,
+        "area": 0.718,
+        "radius": 0.47806537029988033,
+        "coordinates": "-19.821977833441608, -43.99462096193533"
+    },
+    {
+        "name": "Cachoeirinha",
+        "population": 9209,
+        "area": 1.296,
+        "radius": 0.6422846818149976,
+        "coordinates": "-19.879317186996623, -43.951664871253165"
+    },
+    {
+        "name": "Bairro das Indústrias I",
+        "population": 9182,
+        "area": 3.659,
+        "radius": 1.0792107641913558,
+        "coordinates": "-19.958137626800408, -44.00179841032084"
+    },
+    {
+        "name": "Santa Inês",
+        "population": 9172,
+        "area": 1.13,
+        "radius": 0.5997417539138687,
+        "coordinates": "-19.88117297210116, -43.913731779326376"
+    },
+    {
+        "name": "Lagoa",
+        "population": 9127,
+        "area": 0.628,
+        "radius": 0.4471002220122694,
+        "coordinates": "-19.810358285016928, -44.00509365237325"
+    },
+    {
+        "name": "São Bernardo",
+        "population": 9092,
+        "area": 0.939,
+        "radius": 0.546711060000234,
+        "coordinates": "-19.845605471156393, -43.948470793412426"
+    },
+    {
+        "name": "Renascença",
+        "population": 8882,
+        "area": 0.86,
+        "radius": 0.5232078956954491,
+        "coordinates": "-19.892789525141357, -43.943768109219796"
+    },
+    {
+        "name": "Dona Clara",
+        "population": 8844,
+        "area": 0.791,
+        "radius": 0.5017799517431704,
+        "coordinates": "-19.85991694550273, -43.947259452659466"
+    },
+    {
+        "name": "Funcionários",
+        "population": 8838,
+        "area": 0.668,
+        "radius": 0.4611192947283514,
+        "coordinates": "-19.92713001867562, -43.933396145831594"
+    },
+    {
+        "name": "Belvedere",
+        "population": 8828,
+        "area": 2.921,
+        "radius": 0.9642526523390291,
+        "coordinates": "-19.997433978934033, -43.96119295398483"
+    },
+    {
+        "name": "Maria Goretti",
+        "population": 8501,
+        "area": 0.778,
+        "radius": 0.497639519583191,
+        "coordinates": "-19.86614666606201, -43.91495817593236"
+    },
+    {
+        "name": "Nova Vista",
+        "population": 8409,
+        "area": 0.689,
+        "radius": 0.46831134043564626,
+        "coordinates": "-19.889710666075196, -43.905844454004686"
+    },
+    {
+        "name": "Independência",
+        "population": 8334,
+        "area": 0.803,
+        "radius": 0.5055717937203221,
+        "coordinates": "-20.018314313986913, -44.03688200480963"
+    },
+    {
+        "name": "Novo Aarão Reis",
+        "population": 8287,
+        "area": 0.523,
+        "radius": 0.40801479197955864,
+        "coordinates": "-19.846569025981342, -43.915654240432325"
+    },
+    {
+        "name": "Manacás",
+        "population": 8248,
+        "area": 0.696,
+        "radius": 0.47068426868115987,
+        "coordinates": "-19.898315856264738, -44.0018185092573"
+    },
+    {
+        "name": "Vila Pinho",
+        "population": 8225,
+        "area": 0.358,
+        "radius": 0.33757212452126,
+        "coordinates": "-19.998114908871976, -44.028353354569546"
+    },
+    {
+        "name": "Esplanada",
+        "population": 8219,
+        "area": 0.824,
+        "radius": 0.5121399674068052,
+        "coordinates": "-19.90686482651789, -43.91038773129618"
+    },
+    {
+        "name": "Nazaré",
+        "population": 8182,
+        "area": 0.782,
+        "radius": 0.4989171584499017,
+        "coordinates": "-19.85684709163185, -43.902047810985614"
+    },
+    {
+        "name": "Cruzeiro",
+        "population": 8144,
+        "area": 0.531,
+        "radius": 0.4111235210537009,
+        "coordinates": "-19.943854391939897, -43.93013472663189"
+    },
+    {
+        "name": "Vale do Jatobá",
+        "population": 8047,
+        "area": 0.643,
+        "radius": 0.45240828552998164,
+        "coordinates": "-20.004743349892028, -44.04433838014512"
+    },
+    {
+        "name": "Vila Barragem Santa Lúcia",
+        "population": 7999,
+        "area": 0.272,
+        "radius": 0.2942452872043851,
+        "coordinates": "-19.955837533230973, -43.94638130271684"
+    },
+    {
+        "name": "Providência",
+        "population": 7970,
+        "area": 0.675,
+        "radius": 0.4635290424278275,
+        "coordinates": "-19.858666420277906, -43.92985218058792"
+    },
+    {
+        "name": "Flávio Marques Lisboa",
+        "population": 7861,
+        "area": 1.098,
+        "radius": 0.5911888488713248,
+        "coordinates": "-19.996317273944754, -44.00685290399911"
+    },
+    {
+        "name": "Novo Glória",
+        "population": 7856,
+        "area": 0.708,
+        "radius": 0.47472455110108197,
+        "coordinates": "-19.90289579442817, -44.019527628598006"
+    },
+    {
+        "name": "Guarani",
+        "population": 7718,
+        "area": 0.76,
+        "radius": 0.4918490759365935,
+        "coordinates": "-19.843860765781905, -43.932937150678534"
+    },
+    {
+        "name": "Letícia",
+        "population": 7715,
+        "area": 0.775,
+        "radius": 0.49667913363905053,
+        "coordinates": "-19.809977553589675, -43.98378488273191"
+    },
+    {
+        "name": "Maria Helena",
+        "population": 7683,
+        "area": 0.734,
+        "radius": 0.4833626552174903,
+        "coordinates": "-19.799825015788784, -44.0008450497102"
+    },
+    {
+        "name": "Coqueiros",
+        "population": 7668,
+        "area": 0.677,
+        "radius": 0.46421524419866517,
+        "coordinates": "-19.902510259753996, -44.026291505962654"
+    },
+    {
+        "name": "Coração Eucarístico",
+        "population": 7654,
+        "area": 1.027,
+        "radius": 0.5717554137135502,
+        "coordinates": "-19.923747982576682, -43.99599790260439"
+    },
+    {
+        "name": "Palmeiras",
+        "population": 7653,
+        "area": 1.447,
+        "radius": 0.6786710582513042,
+        "coordinates": "-19.975306191899406, -43.98860454988347"
+    },
+    {
+        "name": "Itaipu",
+        "population": 7591,
+        "area": 0.68,
+        "radius": 0.46524264916812785,
+        "coordinates": "-19.987800016712622, -44.05304030243201"
+    },
+    {
+        "name": "Candelária",
+        "population": 7495,
+        "area": 1.019,
+        "radius": 0.5695241645630874,
+        "coordinates": "-19.810472766065644, -43.979094852088075"
+    },
+    {
+        "name": "Calafate",
+        "population": 7475,
+        "area": 1.044,
+        "radius": 0.5764681441119514,
+        "coordinates": "-19.9252887823391, -43.984224549752355"
+    },
+    {
+        "name": "São Tomáz",
+        "population": 7415,
+        "area": 0.404,
+        "radius": 0.35860450919955184,
+        "coordinates": "-19.844419881497963, -43.95664986711206"
+    },
+    {
+        "name": "Alto Caiçaras",
+        "population": 7411,
+        "area": 1.064,
+        "radius": 0.5819636748969418,
+        "coordinates": "-19.89948797301486, -43.981466376412556"
+    },
+    {
+        "name": "Santo André",
+        "population": 7411,
+        "area": 0.608,
+        "radius": 0.43992318738587166,
+        "coordinates": "-19.904199912014064, -43.961765728588624"
+    },
+    {
+        "name": "Santa Lúcia",
+        "population": 7225,
+        "area": 2.11,
+        "radius": 0.8195327082232888,
+        "coordinates": "-19.970647116043, -43.95643792589675"
+    },
+    {
+        "name": "Vila Clóris",
+        "population": 7157,
+        "area": 0.875,
+        "radius": 0.527751030705594,
+        "coordinates": "-19.81851106224947, -43.94984589938007"
+    },
+    {
+        "name": "Santa Maria",
+        "population": 7075,
+        "area": 0.733,
+        "radius": 0.48303327687926284,
+        "coordinates": "-19.934662196700568, -44.01767023880028"
+    },
+    {
+        "name": "Ventosa",
+        "population": 7055,
+        "area": 0.215,
+        "radius": 0.26160394784772456,
+        "coordinates": "-19.95138285909668, -43.974856418318886"
+    },
+    {
+        "name": "Brasil Industrial",
+        "population": 7030,
+        "area": 0.625,
+        "radius": 0.4460310290381928,
+        "coordinates": "-19.997842336139637, -44.01974980896102"
+    },
+    {
+        "name": "Jardim São José",
+        "population": 6964,
+        "area": 0.635,
+        "radius": 0.44958511733231016,
+        "coordinates": "-19.899692772796477, -43.99996442598215"
+    },
+    {
+        "name": "São Marcos",
+        "population": 6925,
+        "area": 0.584,
+        "radius": 0.4311530743614543,
+        "coordinates": "-19.868181200835338, -43.91689110136958"
+    },
+    {
+        "name": "Santa Rosa",
+        "population": 6723,
+        "area": 0.688,
+        "radius": 0.4679713684558575,
+        "coordinates": "-19.868243175127674, -43.95037571684136"
+    },
+    {
+        "name": "Heliópolis",
+        "population": 6675,
+        "area": 0.659,
+        "radius": 0.45800241811055764,
+        "coordinates": "-19.843997786883598, -43.94217649804909"
+    },
+    {
+        "name": "Apolônia",
+        "population": 6568,
+        "area": 0.227,
+        "radius": 0.2688054020359719,
+        "coordinates": "-19.828530373522884, -43.99361349285587"
+    },
+    {
+        "name": "Marçola",
+        "population": 6556,
+        "area": 0.246,
+        "radius": 0.2798289334597345,
+        "coordinates": "-19.943305571725396, -43.914250266389544"
+    },
+    {
+        "name": "Minaslândia",
+        "population": 6490,
+        "area": 0.792,
+        "radius": 0.5020970323130403,
+        "coordinates": "-19.85481146792458, -43.93499068495672"
+    },
+    {
+        "name": "Bonsucesso",
+        "population": 6424,
+        "area": 3.327,
+        "radius": 1.0290855121579894,
+        "coordinates": "-19.98195834786534, -43.99514911701453"
+    },
+    {
+        "name": "Paquetá",
+        "population": 6420,
+        "area": 1.455,
+        "radius": 0.6805445498991344,
+        "coordinates": "-19.870657759983352, -43.99890973788282"
+    },
+    {
+        "name": "Luxemburgo",
+        "population": 6412,
+        "area": 0.622,
+        "radius": 0.44495926690689097,
+        "coordinates": "-19.949404510417768, -43.96112128395933"
+    },
+    {
+        "name": "Casa Branca",
+        "population": 6351,
+        "area": 0.67,
+        "radius": 0.461809077155419,
+        "coordinates": "-19.898114119602848, -43.891046972980114"
+    },
+    {
+        "name": "São Pedro",
+        "population": 6328,
+        "area": 0.583,
+        "radius": 0.43078377829852177,
+        "coordinates": "-19.948642910334748, -43.940464370625655"
+    },
+    {
+        "name": "Grajaú",
+        "population": 6279,
+        "area": 0.426,
+        "radius": 0.36823906842470533,
+        "coordinates": "-19.936783601543045, -43.96984944395002"
+    },
+    {
+        "name": "Nossa Senhora da Conceição",
+        "population": 6225,
+        "area": 0.199,
+        "radius": 0.25168167861521895,
+        "coordinates": "-19.93424292401391, -43.91794961917319"
+    },
+    {
+        "name": "Paulo VI",
+        "population": 6205,
+        "area": 1.283,
+        "radius": 0.6390552276398367,
+        "coordinates": "-19.841981967123857, -43.89721539350164"
+    },
+    {
+        "name": "Barro Preto",
+        "population": 6183,
+        "area": 1.094,
+        "radius": 0.5901110196268724,
+        "coordinates": "-19.925459893876788, -43.9581247730118"
+    },
+    {
+        "name": "Teixeira Dias",
+        "population": 6179,
+        "area": 0.733,
+        "radius": 0.48303327687926284,
+        "coordinates": "-19.983970057432956, -44.022190271098964"
+    },
+    {
+        "name": "Miramar",
+        "population": 6124,
+        "area": 0.639,
+        "radius": 0.45099891049917434,
+        "coordinates": "-19.997076876181342, -44.01786977353945"
+    },
+    {
+        "name": "Santa Rita de Cássia",
+        "population": 6082,
+        "area": 0.155,
+        "radius": 0.2221216611645239,
+        "coordinates": "-19.953489300714278, -43.943443537653515"
+    },
+    {
+        "name": "Califórnia",
+        "population": 6080,
+        "area": 3.413,
+        "radius": 1.0423011280552648,
+        "coordinates": "-19.935947601756745, -44.0263034493902"
+    },
+    {
+        "name": "Nova Granada",
+        "population": 5979,
+        "area": 0.626,
+        "radius": 0.4463877112455639,
+        "coordinates": "-19.948402654623703, -43.968416550025196"
+    },
+    {
+        "name": "Lagoinha Leblon",
+        "population": 5973,
+        "area": 0.519,
+        "radius": 0.4064515111663227,
+        "coordinates": "-19.80535597637186, -44.00057385707719"
+    },
+    {
+        "name": "Horto Florestal",
+        "population": 5971,
+        "area": 1.983,
+        "radius": 0.7944863147357901,
+        "coordinates": "-19.890516135879476, -43.91968414259943"
+    },
+    {
+        "name": "Jardim Montanhês",
+        "population": 5957,
+        "area": 0.597,
+        "radius": 0.43592545469578053,
+        "coordinates": "-19.905236854596062, -43.986476332053606"
+    },
+    {
+        "name": "Juliana",
+        "population": 5892,
+        "area": 0.928,
+        "radius": 0.5434993784527796,
+        "coordinates": "-19.815628121000817, -43.947678751423666"
+    },
+    {
+        "name": "São Salvador",
+        "population": 5839,
+        "area": 0.591,
+        "radius": 0.43372934271803687,
+        "coordinates": "-19.892935931938254, -44.01950632768195"
+    },
+    {
+        "name": "Coração de Jesus",
+        "population": 5812,
+        "area": 0.284,
+        "radius": 0.3006659403327829,
+        "coordinates": "-19.946531382828212, -43.95325677425619"
+    },
+    {
+        "name": "Silveira",
+        "population": 5800,
+        "area": 0.344,
+        "radius": 0.33090572803628526,
+        "coordinates": "-19.889309352861872, -43.932714084717254"
+    },
+    {
+        "name": "Olaria",
+        "population": 5776,
+        "area": 0.632,
+        "radius": 0.4485218479273398,
+        "coordinates": "-19.992733919070215, -44.03468221766197"
+    },
+    {
+        "name": "Pompéia",
+        "population": 5686,
+        "area": 0.586,
+        "radius": 0.43189071916828836,
+        "coordinates": "-19.909201831258656, -43.90947274834076"
+    },
+    {
+        "name": "Vila Cemig",
+        "population": 5668,
+        "area": 0.26,
+        "radius": 0.2876813695875796,
+        "coordinates": "-19.994776888318942, -43.99625308006475"
+    },
+    {
+        "name": "Nova Cintra",
+        "population": 5664,
+        "area": 0.733,
+        "radius": 0.48303327687926284,
+        "coordinates": "-19.9477737840608, -43.99841982186104"
+    },
+    {
+        "name": "Castanheira",
+        "population": 5650,
+        "area": 0.397,
+        "radius": 0.35548421176609923,
+        "coordinates": "-19.998079505081467, -44.035748906808415"
+    },
+    {
+        "name": "Palmares",
+        "population": 5521,
+        "area": 0.6970000000000001,
+        "radius": 0.47102228256219697,
+        "coordinates": "-19.871605629137893, -43.942600297499766"
+    },
+    {
+        "name": "Cinquentenário",
+        "population": 5460,
+        "area": 0.694,
+        "radius": 0.47000751165438914,
+        "coordinates": "-19.955701023004757, -43.9862390556547"
+    },
+    {
+        "name": "Bandeirantes",
+        "population": 5428,
+        "area": 4.776,
+        "radius": 1.2329833804288621,
+        "coordinates": "-19.865954081748978, -44.015925313841954"
+    },
+    {
+        "name": "Santa Helena",
+        "population": 5356,
+        "area": 0.591,
+        "radius": 0.43372934271803687,
+        "coordinates": "-19.98255713776782, -44.01576143279993"
+    },
+    {
+        "name": "Santa Branca",
+        "population": 5355,
+        "area": 0.867,
+        "radius": 0.5253329147515379,
+        "coordinates": "-19.84208130888187, -43.97237916863818"
+    },
+    {
+        "name": "Vila Maria",
+        "population": 5308,
+        "area": 0.132,
+        "radius": 0.20498025508877768,
+        "coordinates": "-19.85206531940993, -43.888040342958675"
+    },
+    {
+        "name": "Alto Barroca",
+        "population": 5213,
+        "area": 0.315,
+        "radius": 0.3166506184233564,
+        "coordinates": "-19.933520645708427, -43.971648212925665"
+    },
+    {
+        "name": "Vista Alegre",
+        "population": 5160,
+        "area": 0.459,
+        "radius": 0.38223584049426856,
+        "coordinates": "-19.953581705526165, -44.0050823082128"
+    },
+    {
+        "name": "Vista do Sol",
+        "population": 5121,
+        "area": 0.31,
+        "radius": 0.3141274657157109,
+        "coordinates": "-19.84778447022417, -43.896328617693726"
+    },
+    {
+        "name": "Aparecida Sétima Seção",
+        "population": 4917,
+        "area": 0.476,
+        "radius": 0.3892499271977894,
+        "coordinates": "-19.88918840516868, -43.967115412360876"
+    },
+    {
+        "name": "Saudade",
+        "population": 4893,
+        "area": 0.595,
+        "radius": 0.4351946487255507,
+        "coordinates": "-19.915977635313183, -43.90257886454547"
+    },
+    {
+        "name": "Lajedo",
+        "population": 4862,
+        "area": 0.508,
+        "radius": 0.4021211536109057,
+        "coordinates": "-19.834491964572987, -43.9159234303013"
+    },
+    {
+        "name": "Graça",
+        "population": 4792,
+        "area": 0.425,
+        "radius": 0.36780660900548134,
+        "coordinates": "-19.897496873876857, -43.934670749363846"
+    },
+    {
+        "name": "São Luíz",
+        "population": 4762,
+        "area": 2.766,
+        "radius": 0.9383203851480394,
+        "coordinates": "-19.86314009359395, -43.98199360807177"
+    },
+    {
+        "name": "Estrela do Oriente",
+        "population": 4761,
+        "area": 1.012,
+        "radius": 0.5675646261158249,
+        "coordinates": "-19.968266821424674, -43.992069901235396"
+    },
+    {
+        "name": "Nova Cachoeirinha",
+        "population": 4735,
+        "area": 0.55,
+        "radius": 0.41841419359420023,
+        "coordinates": "-19.883900860597468, -43.95975455621801"
+    },
+    {
+        "name": "Ipê",
+        "population": 4687,
+        "area": 0.488,
+        "radius": 0.39412589924754987,
+        "coordinates": "-19.866575406284806, -43.90938945277485"
+    },
+    {
+        "name": "Urca",
+        "population": 4685,
+        "area": 0.289,
+        "radius": 0.3033010997459711,
+        "coordinates": "-19.8717485291664, -44.01895343883106"
+    },
+    {
+        "name": "Bairro Novo das Indústrias",
+        "population": 4614,
+        "area": 0.754,
+        "radius": 0.48990371929857623,
+        "coordinates": "-19.97665144702399, -44.00193887078813"
+    },
+    {
+        "name": "Boa Viagem",
+        "population": 4564,
+        "area": 0.235,
+        "radius": 0.2735010479928565,
+        "coordinates": "-19.93090627618889, -43.93754174001497"
+    },
+    {
+        "name": "Estoril",
+        "population": 4539,
+        "area": 1.697,
+        "radius": 0.7349638609169112,
+        "coordinates": "-19.95595243930542, -43.97024368690761"
+    },
+    {
+        "name": "Nova Floresta",
+        "population": 4496,
+        "area": 0.427,
+        "radius": 0.3686710205596293,
+        "coordinates": "-19.894883689246058, -43.93626938154464"
+    },
+    {
+        "name": "Monsenhor Messias",
+        "population": 4489,
+        "area": 0.349,
+        "radius": 0.3333018906009129,
+        "coordinates": "-19.912201490109002, -43.98061608057819"
+    },
+    {
+        "name": "Liberdade",
+        "population": 4477,
+        "area": 0.448,
+        "radius": 0.3776278975530518,
+        "coordinates": "-19.85909511209931, -43.95925472075089"
+    },
+    {
+        "name": "Madre Gertrudes",
+        "population": 4475,
+        "area": 0.545,
+        "radius": 0.4165079686754696,
+        "coordinates": "-19.95249525483176, -44.009223882281816"
+    },
+    {
+        "name": "Pedreira Prado Lopes",
+        "population": 4453,
+        "area": 0.155,
+        "radius": 0.2221216611645239,
+        "coordinates": "-19.901870975524083, -43.95166998462009"
+    },
+    {
+        "name": "Bonfim",
+        "population": 4448,
+        "area": 0.8799999999999999,
+        "radius": 0.5292567428401227,
+        "coordinates": "-19.90834706897025, -43.95865557522614"
+    },
+    {
+        "name": "Nova Esperança",
+        "population": 4426,
+        "area": 0.444,
+        "radius": 0.3759382787980004,
+        "coordinates": "-19.900860292418354, -43.96283047194073"
+    },
+    {
+        "name": "Conjunto Minascaixa",
+        "population": 4421,
+        "area": 0.214,
+        "radius": 0.2609948575036129,
+        "coordinates": "-19.803182925051292, -43.96224584031218"
+    },
+    {
+        "name": "São Francisco",
+        "population": 4389,
+        "area": 1.429,
+        "radius": 0.6744366740893002,
+        "coordinates": "-19.877651810208874, -43.964550606843204"
+    },
+    {
+        "name": "Solar do Barreiro",
+        "population": 4385,
+        "area": 0.731,
+        "radius": 0.48237384547708534,
+        "coordinates": "-20.01033930698044, -44.018649682610736"
+    },
+    {
+        "name": "Nossa Senhora da Aparecida",
+        "population": 4341,
+        "area": 0.138,
+        "radius": 0.2095871281671733,
+        "coordinates": "-19.929068898276395, -43.919832772292665"
+    },
+    {
+        "name": "Trevo",
+        "population": 4311,
+        "area": 1.916,
+        "radius": 0.7809492569483263,
+        "coordinates": "-19.83445055136619, -44.017296594440275"
+    },
+    {
+        "name": "Confisco",
+        "population": 4283,
+        "area": 0.276,
+        "radius": 0.2964009591528446,
+        "coordinates": "-19.867554226232627, -44.02201734713211"
+    },
+    {
+        "name": "Dom Cabral",
+        "population": 4280,
+        "area": 0.538,
+        "radius": 0.4138245023761635,
+        "coordinates": "-19.92230590275424, -44.000894695124735"
+    },
+    {
+        "name": "Mineirão",
+        "population": 4235,
+        "area": 0.394,
+        "radius": 0.354138525377307,
+        "coordinates": "-20.02417470580131, -44.031165286818336"
+    },
+    {
+        "name": "Dom Silvério",
+        "population": 4195,
+        "area": 0.508,
+        "radius": 0.4021211536109057,
+        "coordinates": "-19.857946195951428, -43.910925181365165"
+    },
+    {
+        "name": "Fernão Dias",
+        "population": 4190,
+        "area": 0.505,
+        "radius": 0.4009320298040733,
+        "coordinates": "-19.870838668928403, -43.923053691656364"
+    },
+    {
+        "name": "Ouro Minas",
+        "population": 4143,
+        "area": 0.533,
+        "radius": 0.4118970372993237,
+        "coordinates": "-19.846900724541293, -43.91162039423777"
+    },
+    {
+        "name": "Beira-Linha",
+        "population": 4132,
+        "area": 0.231,
+        "radius": 0.2711633893217439,
+        "coordinates": "-19.847538066661826, -43.899763159288746"
+    },
+    {
+        "name": "Santana do Cafezal",
+        "population": 4078,
+        "area": 0.168,
+        "radius": 0.23124891541124434,
+        "coordinates": "-19.93590223521975, -43.91320114759072"
+    },
+    {
+        "name": "Jaraguá",
+        "population": 4059,
+        "area": 0.505,
+        "radius": 0.4009320298040733,
+        "coordinates": "-19.857593230879, -43.95711701213529"
+    },
+    {
+        "name": "Vila Primeiro de Maio",
+        "population": 4025,
+        "area": 0.164,
+        "radius": 0.22847936741452538,
+        "coordinates": "-19.86007456586144, -43.93299501625164"
+    },
+    {
+        "name": "Eymard",
+        "population": 3947,
+        "area": 0.594,
+        "radius": 0.43482878514786905,
+        "coordinates": "-19.86639890558762, -43.92213534049895"
+    },
+    {
+        "name": "Novo São Lucas",
+        "population": 3926,
+        "area": 0.28,
+        "radius": 0.29854106607209235,
+        "coordinates": "-19.930043190361456, -43.91795544320729"
+    },
+    {
+        "name": "Lagoinha",
+        "population": 3873,
+        "area": 0.557,
+        "radius": 0.4210684108364951,
+        "coordinates": "-19.90376496668759, -43.944223061915814"
+    },
+    {
+        "name": "Vera Cruz",
+        "population": 3862,
+        "area": 0.448,
+        "radius": 0.3776278975530518,
+        "coordinates": "-19.91128614850956, -43.89960781823656"
+    },
+    {
+        "name": "Maria Virgínia",
+        "population": 3837,
+        "area": 0.575,
+        "radius": 0.4278179338873952,
+        "coordinates": "-19.87119235713049, -43.947354538537866"
+    },
+    {
+        "name": "Carmo",
+        "population": 3816,
+        "area": 0.314,
+        "radius": 0.3161475988548866,
+        "coordinates": "-19.946093604651345, -43.934530232767266"
+    },
+    {
+        "name": "Oeste",
+        "population": 3796,
+        "area": 0.794,
+        "radius": 0.502730593489127,
+        "coordinates": "-19.933700950054252, -44.00454302650646"
+    },
+    {
+        "name": "São Paulo",
+        "population": 3750,
+        "area": 0.504,
+        "radius": 0.40053487068747273,
+        "coordinates": "-19.868758279347055, -43.92804377914047"
+    },
+    {
+        "name": "Conjunto Jatobá",
+        "population": 3720,
+        "area": 0.141,
+        "radius": 0.21185300080932176,
+        "coordinates": "-20.004365313681166, -44.04425067229775"
+    },
+    {
+        "name": "Fazendinha",
+        "population": 3715,
+        "area": 0.221,
+        "radius": 0.2652291176447596,
+        "coordinates": "-19.929534595613543, -43.90806723793606"
+    },
+    {
+        "name": "São Bento",
+        "population": 3688,
+        "area": 0.979,
+        "radius": 0.558234161059614,
+        "coordinates": "-19.95226167758332, -43.96028052055224"
+    },
+    {
+        "name": "Vila Novo São Lucas",
+        "population": 3677,
+        "area": 0.155,
+        "radius": 0.2221216611645239,
+        "coordinates": "-19.932681070618433, -43.911288104533746"
+    },
+    {
+        "name": "Leonina",
+        "population": 3670,
+        "area": 0.167,
+        "radius": 0.2305596473641757,
+        "coordinates": "-19.95324164936453, -43.96572490001473"
+    },
+    {
+        "name": "Bom Jesus",
+        "population": 3615,
+        "area": 0.275,
+        "radius": 0.2958635136351599,
+        "coordinates": "-19.895953664463725, -43.95767123447953"
+    },
+    {
+        "name": "Granja de Freitas",
+        "population": 3602,
+        "area": 0.823,
+        "radius": 0.5118291085208614,
+        "coordinates": "-19.912470696535838, -43.888511766516004"
+    },
+    {
+        "name": "Vila Paris",
+        "population": 3560,
+        "area": 0.299,
+        "radius": 0.3085038994388133,
+        "coordinates": "-19.948201200168132, -43.95341359915128"
+    },
+    {
+        "name": "Mariano de Abreu",
+        "population": 3541,
+        "area": 0.171,
+        "radius": 0.23330450175131257,
+        "coordinates": "-19.896596510326727, -43.89357586492464"
+    },
+    {
+        "name": "Minas Brasil",
+        "population": 3511,
+        "area": 0.326,
+        "radius": 0.3221319960760119,
+        "coordinates": "-19.916344753092492, -43.99436027487555"
+    },
+    {
+        "name": "Monte Azul",
+        "population": 3494,
+        "area": 0.588,
+        "radius": 0.43262710626597234,
+        "coordinates": "-19.81323439185546, -43.895671940708056"
+    },
+    {
+        "name": "Mangueiras",
+        "population": 3467,
+        "area": 0.375,
+        "radius": 0.3454941494713355,
+        "coordinates": "-20.010710571383417, -44.04044358981659"
+    },
+    {
+        "name": "Inconfidência",
+        "population": 3465,
+        "area": 0.345,
+        "radius": 0.33138634663094946,
+        "coordinates": "-19.903971895960908, -44.00214249172442"
+    },
+    {
+        "name": "Ermelinda",
+        "population": 3455,
+        "area": 0.384,
+        "radius": 0.3496154977894653,
+        "coordinates": "-19.884567669584094, -43.964866599361166"
+    },
+    {
+        "name": "Jatobá",
+        "population": 3447,
+        "area": 0.332,
+        "radius": 0.325082885143187,
+        "coordinates": "-19.990104712990473, -44.056980882410514"
+    },
+    {
+        "name": "Vitória",
+        "population": 3435,
+        "area": 0.408,
+        "radius": 0.3603754064347158,
+        "coordinates": "-19.862117441936103, -43.893332756086764"
+    },
+    {
+        "name": "Horto",
+        "population": 3429,
+        "area": 0.384,
+        "radius": 0.3496154977894653,
+        "coordinates": "-19.912282801724903, -43.923267042300836"
+    },
+    {
+        "name": "Taquaril",
+        "population": 3389,
+        "area": 0.421,
+        "radius": 0.3660716624970798,
+        "coordinates": "-19.917204579986016, -43.88856033745989"
+    },
+    {
+        "name": "Conjunto Califórnia I",
+        "population": 3347,
+        "area": 0.305,
+        "radius": 0.31158388162107514,
+        "coordinates": "-19.919040916819995, -44.01331112479553"
+    },
+    {
+        "name": "Indaiá",
+        "population": 3317,
+        "area": 0.435,
+        "radius": 0.37210858696078075,
+        "coordinates": "-19.86710824838759, -43.95649569438312"
+    },
+    {
+        "name": "Barroca",
+        "population": 3311,
+        "area": 0.24,
+        "radius": 0.27639531957706837,
+        "coordinates": "-19.93135880142528, -43.96682665532441"
+    },
+    {
+        "name": "Dom Joaquim",
+        "population": 3279,
+        "area": 0.58,
+        "radius": 0.4296739856991561,
+        "coordinates": "-19.872564511694968, -43.92285274793725"
+    },
+    {
+        "name": "Pirajá",
+        "population": 3231,
+        "area": 0.252,
+        "radius": 0.28322092316478886,
+        "coordinates": "-19.865401957676998, -43.920509775609716"
+    },
+    {
+        "name": "Conjunto Paulo VI",
+        "population": 3228,
+        "area": 0.216,
+        "radius": 0.26221162334209897,
+        "coordinates": "-19.830159843285653, -43.88938846923675"
+    },
+    {
+        "name": "Alto dos Pinheiros",
+        "population": 3191,
+        "area": 0.421,
+        "radius": 0.3660716624970798,
+        "coordinates": "-19.931476123000785, -44.006782813029645"
+    },
+    {
+        "name": "Parque São José",
+        "population": 3184,
+        "area": 0.339,
+        "radius": 0.32849208729633816,
+        "coordinates": "-19.967417818012777, -43.98423474913382"
+    },
+    {
+        "name": "Vila Califórnia",
+        "population": 3100,
+        "area": 0.103,
+        "radius": 0.1810688219350047,
+        "coordinates": "-19.917517323761157, -44.00984824102897"
+    },
+    {
+        "name": "Novo Tupi",
+        "population": 3048,
+        "area": 0.316,
+        "radius": 0.3171528401797434,
+        "coordinates": "-19.843063140681135, -43.91348670680198"
+    },
+    {
+        "name": "Vila Independência I",
+        "population": 3023,
+        "area": 0.145,
+        "radius": 0.21483699284957805,
+        "coordinates": "-20.01644937023894, -44.03179615462386"
+    },
+    {
+        "name": "Conjunto Jardim Filadélfia",
+        "population": 3002,
+        "area": 0.105,
+        "radius": 0.18281831978578628,
+        "coordinates": "-19.907703867555302, -44.01020673204987"
+    },
+    {
+        "name": "São Lucas",
+        "population": 2987,
+        "area": 0.29,
+        "radius": 0.3038253889873249,
+        "coordinates": "-19.931647050749547, -43.92377618698427"
+    },
+    {
+        "name": "Vila Sumaré",
+        "population": 2987,
+        "area": 0.088,
+        "radius": 0.16736567743768008,
+        "coordinates": "-19.888629584154902, -43.96743661242491"
+    },
+    {
+        "name": "São Cristóvão",
+        "population": 2981,
+        "area": 0.311,
+        "radius": 0.31463371498165754,
+        "coordinates": "-19.897784805282193, -43.94729175462259"
+    },
+    {
+        "name": "Aarão Reis",
+        "population": 2962,
+        "area": 0.333,
+        "radius": 0.32557209969406514,
+        "coordinates": "-19.845575588412466, -43.929235209171225"
+    },
+    {
+        "name": "Pilar",
+        "population": 2946,
+        "area": 1.06,
+        "radius": 0.5808687281605184,
+        "coordinates": "-20.003698667999362, -43.97965830803591"
+    },
+    {
+        "name": "Santa Cecília",
+        "population": 2917,
+        "area": 0.341,
+        "radius": 0.3294596654959035,
+        "coordinates": "-19.99892451217648, -44.03594457337007"
+    },
+    {
+        "name": "Marajó",
+        "population": 2885,
+        "area": 0.271,
+        "radius": 0.2937038970728977,
+        "coordinates": "-19.958266428871354, -43.98246285099247"
+    },
+    {
+        "name": "Flávio de Oliveira",
+        "population": 2872,
+        "area": 0.11,
+        "radius": 0.18712051592547777,
+        "coordinates": "-19.99971288753085, -44.00516276212544"
+    },
+    {
+        "name": "São Jorge III",
+        "population": 2851,
+        "area": 0.224,
+        "radius": 0.2670232471249818,
+        "coordinates": "-19.948439614888617, -43.9684078283691"
+    },
+    {
+        "name": "Senhor dos Passos",
+        "population": 2849,
+        "area": 0.125,
+        "radius": 0.19947114020071635,
+        "coordinates": "-19.90436686661988, -43.95151210804905"
+    },
+    {
+        "name": "Universo",
+        "population": 2833,
+        "area": 0.13,
+        "radius": 0.20342144725641095,
+        "coordinates": "-19.82788447260537, -43.98507414372937"
+    },
+    {
+        "name": "Santa Rita",
+        "population": 2790,
+        "area": 0.123,
+        "radius": 0.19786893642157743,
+        "coordinates": "-20.006204340852108, -44.031819186278675"
+    },
+    {
+        "name": "Santa Sofia",
+        "population": 2782,
+        "area": 0.126,
+        "radius": 0.20026743534373637,
+        "coordinates": "-19.949182628114837, -43.969033348847006"
+    },
+    {
+        "name": "Conjunto Capitão Eduardo",
+        "population": 2781,
+        "area": 0.169,
+        "radius": 0.23193613509986025,
+        "coordinates": "-19.830059237023153, -43.86976373216623"
+    },
+    {
+        "name": "Campo Alegre",
+        "population": 2776,
+        "area": 0.217,
+        "radius": 0.26281789380078857,
+        "coordinates": "-19.832176988592202, -43.949292374472165"
+    },
+    {
+        "name": "Vila Jardim Alvorada",
+        "population": 2776,
+        "area": 0.178,
+        "radius": 0.23803184606416583,
+        "coordinates": "-19.89221464057058, -43.98962184259881"
+    },
+    {
+        "name": "São Jorge II",
+        "population": 2710,
+        "area": 0.155,
+        "radius": 0.2221216611645239,
+        "coordinates": "-19.948439614888617, -43.9684078283691"
+    },
+    {
+        "name": "Conjunto Celso Machado",
+        "population": 2696,
+        "area": 0.331,
+        "radius": 0.3245929332669378,
+        "coordinates": "-19.885376165970822, -44.01173364351239"
+    },
+    {
+        "name": "Venda Nova",
+        "population": 2684,
+        "area": 0.768,
+        "radius": 0.49443097858968266,
+        "coordinates": "-19.80957402469312, -43.96845420903246"
+    },
+    {
+        "name": "Pongelupe",
+        "population": 2680,
+        "area": 0.239,
+        "radius": 0.27581889492550354,
+        "coordinates": "-20.00837323371077, -44.011672057739354"
+    },
+    {
+        "name": "Zilah Spósito",
+        "population": 2638,
+        "area": 0.118,
+        "radius": 0.1938054864282415,
+        "coordinates": "-19.80307695846778, -43.92645799136789"
+    },
+    {
+        "name": "Canaã",
+        "population": 2614,
+        "area": 0.48,
+        "radius": 0.3908820095223359,
+        "coordinates": "-19.797474434886084, -43.949369656409"
+    },
+    {
+        "name": "São Gonçalo",
+        "population": 2598,
+        "area": 0.243,
+        "radius": 0.2781174254566965,
+        "coordinates": "-19.85065306205205, -43.928942136749235"
+    },
+    {
+        "name": "Jonas Veiga",
+        "population": 2580,
+        "area": 0.525,
+        "radius": 0.40879419057331295,
+        "coordinates": "-19.918370025783386, -43.9024116355332"
+    },
+    {
+        "name": "Acaiaca",
+        "population": 2565,
+        "area": 0.382,
+        "radius": 0.34870385217575106,
+        "coordinates": "-19.846898823155925, -43.89919776115169"
+    },
+    {
+        "name": "Vila São João Batista",
+        "population": 2486,
+        "area": 0.088,
+        "radius": 0.16736567743768008,
+        "coordinates": "-19.82156510845356, -43.96588149210984"
+    },
+    {
+        "name": "Primeiro de Maio",
+        "population": 2421,
+        "area": 0.189,
+        "radius": 0.24527651434398776,
+        "coordinates": "-19.8578096234956, -43.934297965179134"
+    },
+    {
+        "name": "Novo Santa Cecília",
+        "population": 2355,
+        "area": 0.252,
+        "radius": 0.28322092316478886,
+        "coordinates": "-20.004202622651647, -44.02103240936891"
+    },
+    {
+        "name": "Etelvina Carneiro",
+        "population": 2331,
+        "area": 0.305,
+        "radius": 0.31158388162107514,
+        "coordinates": "-19.812773208259443, -43.9386287026631"
+    },
+    {
+        "name": "Parque São Pedro",
+        "population": 2313,
+        "area": 0.408,
+        "radius": 0.3603754064347158,
+        "coordinates": "-19.814252889038823, -43.95542332487138"
+    },
+    {
+        "name": "Santa Margarida",
+        "population": 2311,
+        "area": 0.253,
+        "radius": 0.28378231305791246,
+        "coordinates": "-19.97570720318689, -44.0280417123609"
+    },
+    {
+        "name": "Cenáculo",
+        "population": 2299,
+        "area": 0.327,
+        "radius": 0.3226256852485548,
+        "coordinates": "-19.808585799162834, -43.96786297847711"
+    },
+    {
+        "name": "Vila Nova Cachoeirinha I",
+        "population": 2273,
+        "area": 0.059,
+        "radius": 0.13704117368456697,
+        "coordinates": "-19.88358068255348, -43.94828465485496"
+    },
+    {
+        "name": "Belmonte",
+        "population": 2236,
+        "area": 0.482,
+        "radius": 0.39169550053656105,
+        "coordinates": "-19.8503711300294, -43.90553036450791"
+    },
+    {
+        "name": "Penha",
+        "population": 2226,
+        "area": 0.214,
+        "radius": 0.2609948575036129,
+        "coordinates": "-19.875950373212138, -43.91561967584325"
+    },
+    {
+        "name": "Alpes",
+        "population": 2197,
+        "area": 0.215,
+        "radius": 0.26160394784772456,
+        "coordinates": "-19.95200429775058, -43.96753814632833"
+    },
+    {
+        "name": "Petrópolis",
+        "population": 2150,
+        "area": 0.298,
+        "radius": 0.30798757455905523,
+        "coordinates": "-20.01135880912208, -44.0331325177718"
+    },
+    {
+        "name": "Mariquinhas",
+        "population": 2147,
+        "area": 0.131,
+        "radius": 0.20420233860089992,
+        "coordinates": "-19.8140740048398, -43.94328368242968"
+    },
+    {
+        "name": "Esperança",
+        "population": 2146,
+        "area": 0.118,
+        "radius": 0.1938054864282415,
+        "coordinates": "-19.993031588453334, -43.99112272386388"
+    },
+    {
+        "name": "Ernesto do Nascimento",
+        "population": 2142,
+        "area": 0.181,
+        "radius": 0.24002935112037052,
+        "coordinates": "-20.006083795543965, -44.034671519642636"
+    },
+    {
+        "name": "Vila Santa Mônica",
+        "population": 2132,
+        "area": 0.066,
+        "radius": 0.14494292838262302,
+        "coordinates": "-19.814568185042383, -43.99638576254121"
+    },
+    {
+        "name": "Vila Aeroporto",
+        "population": 2092,
+        "area": 0.077,
+        "radius": 0.15655625581928012,
+        "coordinates": "-19.84728305447337, -43.95034204273114"
+    },
+    {
+        "name": "Granja Werneck",
+        "population": 2068,
+        "area": 9.587,
+        "radius": 1.7468934938467202,
+        "coordinates": "-19.81826533965415, -43.93713131764982"
+    },
+    {
+        "name": "Braúnas",
+        "population": 2031,
+        "area": 2.003,
+        "radius": 0.798482749986581,
+        "coordinates": "-19.8418083470685, -44.01481673543175"
+    },
+    {
+        "name": "Águas Claras",
+        "population": 2023,
+        "area": 0.147,
+        "radius": 0.21631355313298617,
+        "coordinates": "-20.01333174158787, -44.02532237552367"
+    },
+    {
+        "name": "Alta Tensão I",
+        "population": 2010,
+        "area": 0.08,
+        "radius": 0.15957691216057307,
+        "coordinates": "-19.964003787605225, -44.001530297715576"
+    },
+    {
+        "name": "Frei Leopoldo",
+        "population": 1995,
+        "area": 0.248,
+        "radius": 0.28096414677602566,
+        "coordinates": "-19.80977950342783, -43.93976983347173"
+    },
+    {
+        "name": "Universitário",
+        "population": 1995,
+        "area": 0.499,
+        "radius": 0.39854313845017025,
+        "coordinates": "-19.870626643922357, -43.9494737908282"
+    },
+    {
+        "name": "Suzana",
+        "population": 1986,
+        "area": 0.46,
+        "radius": 0.3826519928662906,
+        "coordinates": "-19.867875216772973, -43.937569352644665"
+    },
+    {
+        "name": "Mangabeiras",
+        "population": 1947,
+        "area": 6.33,
+        "radius": 1.4194722891072566,
+        "coordinates": "-19.96104518772539, -43.940626122472615"
+    },
+    {
+        "name": "Vila Madre Gertrudes I",
+        "population": 1930,
+        "area": 0.061,
+        "radius": 0.13934454799959428,
+        "coordinates": "-19.949481924201745, -44.00963078229096"
+    },
+    {
+        "name": "Vila Mangueiras",
+        "population": 1903,
+        "area": 0.093,
+        "radius": 0.17205469890442554,
+        "coordinates": "-20.014806298057263, -44.03886099662966"
+    },
+    {
+        "name": "Barão Homem de Melo I",
+        "population": 1899,
+        "area": 0.005,
+        "radius": 0.03989422804014327,
+        "coordinates": "-19.938415522937706, -43.97339103945288"
+    },
+    {
+        "name": "Vila São Paulo",
+        "population": 1898,
+        "area": 0.074,
+        "radius": 0.15347615963921077,
+        "coordinates": "-19.86479039533859, -43.92525703102733"
+    },
+    {
+        "name": "Túnel de Ibirité",
+        "population": 1894,
+        "area": 0.195,
+        "radius": 0.24913937425834395,
+        "coordinates": "-19.983182874198203, -44.04993023987146"
+    },
+    {
+        "name": "Imbaúbas",
+        "population": 1809,
+        "area": 0.048,
+        "radius": 0.12360774464742066,
+        "coordinates": "-19.9438698911776, -43.99312600476172"
+    },
+    {
+        "name": "Ademar Maldonado",
+        "population": 1803,
+        "area": 0.163,
+        "radius": 0.22778171886250634,
+        "coordinates": "-19.980682631936343, -44.02896513064514"
+    },
+    {
+        "name": "Itatiaia",
+        "population": 1793,
+        "area": 0.193,
+        "radius": 0.2478584435387901,
+        "coordinates": "-19.86747080828296, -44.01531025907362"
+    },
+    {
+        "name": "João Paulo II",
+        "population": 1792,
+        "area": 0.165,
+        "radius": 0.22917489221187706,
+        "coordinates": "-19.983981001845798, -44.03501232648045"
+    },
+    {
+        "name": "Comiteco",
+        "population": 1738,
+        "area": 0.715,
+        "radius": 0.4770655810487803,
+        "coordinates": "-19.957697401171806, -43.929769897791594"
+    },
+    {
+        "name": "Conjunto Califórnia II",
+        "population": 1737,
+        "area": 0.108,
+        "radius": 0.185411616971131,
+        "coordinates": "-19.919040916819995, -44.01331112479553"
+    },
+    {
+        "name": "Jardinópolis",
+        "population": 1728,
+        "area": 0.453,
+        "radius": 0.37972934893323324,
+        "coordinates": "-19.943460882858616, -44.00757078751811"
+    },
+    {
+        "name": "São Jorge I",
+        "population": 1723,
+        "area": 0.079,
+        "radius": 0.1585764200898717,
+        "coordinates": "-19.948439614888617, -43.9684078283691"
+    },
+    {
+        "name": "Vila Ecológica",
+        "population": 1704,
+        "area": 0.238,
+        "radius": 0.27524126309792685,
+        "coordinates": "-20.01573053133345, -44.02120965141354"
+    },
+    {
+        "name": "Vila Jardim São José",
+        "population": 1698,
+        "area": 0.225,
+        "radius": 0.26761861742291565
+    },
+    {
+        "name": "Vila Piratininga",
+        "population": 1693,
+        "area": 0.102,
+        "radius": 0.1801877032173579,
+        "coordinates": "-19.989712468065896, -44.05298402381074"
+    },
+    {
+        "name": "São João",
+        "population": 1686,
+        "area": 0.06,
+        "radius": 0.13819765978853418,
+        "coordinates": "-19.997532432641176, -43.97419439220544"
+    },
+    {
+        "name": "Biquinhas",
+        "population": 1671,
+        "area": 0.076,
+        "radius": 0.15553633450087503,
+        "coordinates": "-19.84314231780067, -43.94414988995256"
+    },
+    {
+        "name": "Tiradentes",
+        "population": 1661,
+        "area": 0.045,
+        "radius": 0.1196826841204298,
+        "coordinates": "-19.837121716195536, -43.88146829673706"
+    },
+    {
+        "name": "Pousada Santo Antônio",
+        "population": 1629,
+        "area": 0.394,
+        "radius": 0.354138525377307,
+        "coordinates": "-19.859030088457025, -43.892653241672214"
+    },
+    {
+        "name": "Vila Nossa Senhora Aparecida",
+        "population": 1603,
+        "area": 0.069,
+        "radius": 0.1482004795764223,
+        "coordinates": "-19.823376281652028, -43.96982697763542"
+    },
+    {
+        "name": "Vila Antena",
+        "population": 1600,
+        "area": 0.066,
+        "radius": 0.14494292838262302,
+        "coordinates": "-19.94766434849403, -43.9636727059169"
+    },
+    {
+        "name": "São Benedito",
+        "population": 1597,
+        "area": 0.04,
+        "radius": 0.11283791670955126,
+        "coordinates": "-19.871096518968955, -43.89944062084677"
+    },
+    {
+        "name": "Estrela",
+        "population": 1591,
+        "area": 0.072,
+        "radius": 0.1513879513212096,
+        "coordinates": "-19.95074026542517, -43.94242452895179"
+    },
+    {
+        "name": "Vila Átila de Paiva",
+        "population": 1582,
+        "area": 0.036,
+        "radius": 0.10704744696916627,
+        "coordinates": "-19.980281164233286, -44.032513462036796"
+    },
+    {
+        "name": "Olhos d'Água",
+        "population": 1566,
+        "area": 3.61,
+        "radius": 1.071960208740737,
+        "coordinates": "-19.985674117247072, -43.97628525818013"
+    },
+    {
+        "name": "Vila Coqueiral",
+        "population": 1533,
+        "area": 0.068,
+        "radius": 0.14712264360219254,
+        "coordinates": "-19.916411376260054, -44.026252531929934"
+    },
+    {
+        "name": "Cidade Jardim",
+        "population": 1528,
+        "area": 0.511,
+        "radius": 0.40330677137870746,
+        "coordinates": "-19.93974620565303, -43.953824684429556"
+    },
+    {
+        "name": "Vila Trinta e Um de Março",
+        "population": 1525,
+        "area": 0.054,
+        "radius": 0.13110581167104948,
+        "coordinates": "-19.921839811621158, -44.00168842325231"
+    },
+    {
+        "name": "São José",
+        "population": 1522,
+        "area": 0.308,
+        "radius": 0.31311251163856024,
+        "coordinates": "-19.861135146337716, -43.9712750148133"
+    },
+    {
+        "name": "Solimões",
+        "population": 1519,
+        "area": 0.28,
+        "radius": 0.29854106607209235,
+        "coordinates": "-19.82233487324218, -43.927947772735976"
+    },
+    {
+        "name": "Bernadete",
+        "population": 1516,
+        "area": 0.139,
+        "radius": 0.2103451311049222,
+        "coordinates": "-19.98556552273931, -43.98632216457493"
+    },
+    {
+        "name": "Xodó-Marize",
+        "population": 1499,
+        "area": 0.489,
+        "radius": 0.3945295101052311,
+        "coordinates": "-19.822033984207067, -43.94364925471317"
+    },
+    {
+        "name": "Vila da Luz",
+        "population": 1491,
+        "area": 0.07,
+        "radius": 0.14927053303604618,
+        "coordinates": "-19.856570072070394, -43.8985569968658"
+    },
+    {
+        "name": "Jardim Atlântico",
+        "population": 1459,
+        "area": 1.099,
+        "radius": 0.5914579992831156,
+        "coordinates": "-19.843380874550007, -43.96703798068529"
+    },
+    {
+        "name": "Vila Formosa",
+        "population": 1444,
+        "area": 0.044,
+        "radius": 0.11834540545406395,
+        "coordinates": "-19.999754980476563, -44.03190492148085"
+    },
+    {
+        "name": "Vila Nova Gameleira II",
+        "population": 1399,
+        "area": 0.055,
+        "radius": 0.13231418571003067,
+        "coordinates": "-19.94027978365228, -43.998211181952854"
+    },
+    {
+        "name": "Vila Santa Rosa",
+        "population": 1391,
+        "area": 0.028,
+        "radius": 0.09440697438826295,
+        "coordinates": "-19.87013402304595, -43.95189064134764"
+    },
+    {
+        "name": "Engenho Nogueira",
+        "population": 1375,
+        "area": 1.982,
+        "radius": 0.7942859651386729,
+        "coordinates": "-19.890565452955478, -43.98601754689546"
+    },
+    {
+        "name": "Vila Copacabana",
+        "population": 1348,
+        "area": 0.045,
+        "radius": 0.1196826841204298,
+        "coordinates": "-19.83860301860771, -43.986476028936266"
+    },
+    {
+        "name": "São Francisco das Chagas",
+        "population": 1346,
+        "area": 0.029,
+        "radius": 0.09607802401865856,
+        "coordinates": "-19.91442979519254, -43.96327301707252"
+    },
+    {
+        "name": "Vila Oeste",
+        "population": 1339,
+        "area": 0.045,
+        "radius": 0.1196826841204298,
+        "coordinates": "-19.93714107176355, -44.00605040291391"
+    },
+    {
+        "name": "Aeroporto",
+        "population": 1325,
+        "area": 2.362,
+        "radius": 0.8670916624937144,
+        "coordinates": "-19.84811448738305, -43.94679090579583"
+    },
+    {
+        "name": "Beija Flor",
+        "population": 1258,
+        "area": 0.66,
+        "radius": 0.4583497844237541,
+        "coordinates": "-19.8343660227176, -43.87351232194644"
+    },
+    {
+        "name": "Capitão Eduardo",
+        "population": 1256,
+        "area": 5.046,
+        "radius": 1.2673561794868118,
+        "coordinates": "-19.82532731289434, -43.89807834142782"
+    },
+    {
+        "name": "Marieta I",
+        "population": 1227,
+        "area": 0.047,
+        "radius": 0.12231338704589192,
+        "coordinates": "-19.992436136226342, -44.03912251833977"
+    },
+    {
+        "name": "Átila de Paiva",
+        "population": 1207,
+        "area": 0.14,
+        "radius": 0.21110041228223764,
+        "coordinates": "-19.977605217469975, -44.03108235955608"
+    },
+    {
+        "name": "Vila São Rafael",
+        "population": 1190,
+        "area": 0.03,
+        "radius": 0.09772050238058398,
+        "coordinates": "-19.9124107228243, -43.907848228641555"
+    },
+    {
+        "name": "Vitória da Conquista",
+        "population": 1184,
+        "area": 0.094,
+        "radius": 0.17297725082009,
+        "coordinates": "-20.013784409817784, -44.02634757795304"
+    },
+    {
+        "name": "Acaba Mundo",
+        "population": 1173,
+        "area": 0.039,
+        "radius": 0.11141851534268367,
+        "coordinates": "-19.962730599871666, -43.930354155052505"
+    },
+    {
+        "name": "Conjunto Santa Maria",
+        "population": 1127,
+        "area": 0.066,
+        "radius": 0.14494292838262302,
+        "coordinates": "-19.950371185673795, -43.96112569105162"
+    },
+    {
+        "name": "Jardim do Vale",
+        "population": 1117,
+        "area": 0.051,
+        "radius": 0.12741194683142285,
+        "coordinates": "-20.005969365137833, -44.03324338645459"
+    },
+    {
+        "name": "Monte São José",
+        "population": 1111,
+        "area": 0.035,
+        "radius": 0.10555020614111882,
+        "coordinates": "-19.942304407100142, -43.95400537764431"
+    },
+    {
+        "name": "Álvaro Camargos",
+        "population": 1080,
+        "area": 0.207,
+        "radius": 0.2566907603324371,
+        "coordinates": "-19.916097908394793, -44.00877082024181"
+    },
+    {
+        "name": "Sport Club",
+        "population": 1071,
+        "area": 0.064,
+        "radius": 0.1427299292922217,
+        "coordinates": "-19.94594506164545, -44.01344129990106"
+    },
+    {
+        "name": "Bairro das Indústrias II",
+        "population": 1033,
+        "area": 0.176,
+        "radius": 0.2366908109081279,
+        "coordinates": "-19.958137626800408, -44.00179841032084"
+    },
+    {
+        "name": "Conjunto Bonsucesso",
+        "population": 1030,
+        "area": 0.047,
+        "radius": 0.12231338704589192,
+        "coordinates": "-19.978393324701788, -43.99314320873051"
+    },
+    {
+        "name": "Vila Dias",
+        "population": 1003,
+        "area": 0.035,
+        "radius": 0.10555020614111882,
+        "coordinates": "-19.919658718739722, -43.92426169786467"
+    },
+    {
+        "name": "Vila Esplanada",
+        "population": 990,
+        "area": 0.038,
+        "radius": 0.10998079684646792,
+        "coordinates": "-19.85676521781652, -43.92106956922067"
+    },
+    {
+        "name": "Vila Independência II",
+        "population": 980,
+        "area": 0.078,
+        "radius": 0.15756957549709802,
+        "coordinates": "-20.01644937023894, -44.03179615462386"
+    },
+    {
+        "name": "Vila de Sá",
+        "population": 971,
+        "area": 0.022,
+        "radius": 0.08368283871884004,
+        "coordinates": "-19.87624808848769, -43.92385072234969"
+    },
+    {
+        "name": "Garças",
+        "population": 966,
+        "area": 1.25,
+        "radius": 0.6307831305050401,
+        "coordinates": "-19.83594497425883, -44.00482157494043"
+    },
+    {
+        "name": "Vila Boa Vista",
+        "population": 958,
+        "area": 0.031,
+        "radius": 0.0993358267278101,
+        "coordinates": "-19.89593870100726, -43.89476771876887"
+    },
+    {
+        "name": "Delta",
+        "population": 954,
+        "area": 0.045,
+        "radius": 0.1196826841204298,
+        "coordinates": "-19.925321332379312, -44.00542059956909"
+    },
+    {
+        "name": "Corumbiara",
+        "population": 952,
+        "area": 0.054,
+        "radius": 0.13110581167104948,
+        "coordinates": "-20.007764037453637, -44.01470531864446"
+    },
+    {
+        "name": "Madri",
+        "population": 939,
+        "area": 0.148,
+        "radius": 0.2170480664627101,
+        "coordinates": "-19.81613278478608, -43.939475741302424"
+    },
+    {
+        "name": "Pantanal",
+        "population": 919,
+        "area": 0.037,
+        "radius": 0.10852403323135505,
+        "coordinates": "-19.955538267777566, -43.964050782419655"
+    },
+    {
+        "name": "Conjunto Floramar",
+        "population": 916,
+        "area": 0.024,
+        "radius": 0.08740387444736633,
+        "coordinates": "-19.828988048224495, -43.932147695794875"
+    },
+    {
+        "name": "Vila Pilar",
+        "population": 910,
+        "area": 0.03,
+        "radius": 0.09772050238058398
+    },
+    {
+        "name": "Vila Olhos d'Água",
+        "population": 892,
+        "area": 0.053,
+        "radius": 0.12988619621707653
+    },
+    {
+        "name": "Marilândia",
+        "population": 865,
+        "area": 0.157,
+        "radius": 0.2235501110061347,
+        "coordinates": "-19.997126422950036, -44.05206788168519"
+    },
+    {
+        "name": "Virgínia",
+        "population": 861,
+        "area": 0.057,
+        "radius": 0.13469841688927184,
+        "coordinates": "-19.944211185236814, -44.02275389500197"
+    },
+    {
+        "name": "Vila Minaslândia",
+        "population": 856,
+        "area": 0.039,
+        "radius": 0.11141851534268367,
+        "coordinates": "-19.858977632068218, -43.929458347444395"
+    },
+    {
+        "name": "Vila Nova Gameleira I",
+        "population": 819,
+        "area": 0.022,
+        "radius": 0.08368283871884004,
+        "coordinates": "-19.94027978365228, -43.998211181952854"
+    },
+    {
+        "name": "Vila dos Anjos",
+        "population": 808,
+        "area": 0.031,
+        "radius": 0.0993358267278101,
+        "coordinates": "-19.819266370135974, -43.99574938987308"
+    },
+    {
+        "name": "Ambrosina",
+        "population": 800,
+        "area": 0.055,
+        "radius": 0.13231418571003067,
+        "coordinates": "-19.938028933183734, -43.98493409728993"
+    },
+    {
+        "name": "Andiroba",
+        "population": 791,
+        "area": 0.022,
+        "radius": 0.08368283871884004,
+        "coordinates": "-19.866826225697373, -43.92712063651249"
+    },
+    {
+        "name": "Marmiteiros",
+        "population": 785,
+        "area": 0.03,
+        "radius": 0.09772050238058398,
+        "coordinates": "-19.920463057222992, -43.985310454249316"
+    },
+    {
+        "name": "Guaratã",
+        "population": 766,
+        "area": 0.101,
+        "radius": 0.17930225459977592,
+        "coordinates": "-19.939904048650554, -43.9867084517318"
+    },
+    {
+        "name": "Vila União",
+        "population": 760,
+        "area": 0.014,
+        "radius": 0.06675581178124546,
+        "coordinates": "-19.920972230696748, -43.91929924427005"
+    },
+    {
+        "name": "Vila Mantiqueira",
+        "population": 711,
+        "area": 0.04,
+        "radius": 0.11283791670955126,
+        "coordinates": "-19.786353980858138, -43.980381345838566"
+    },
+    {
+        "name": "Conjunto Novo Dom Bosco",
+        "population": 704,
+        "area": 0.022,
+        "radius": 0.08368283871884004,
+        "coordinates": "-19.917282622261574, -44.00950764591614"
+    },
+    {
+        "name": "Vila Nova Paraíso",
+        "population": 704,
+        "area": 0.03,
+        "radius": 0.09772050238058398,
+        "coordinates": "-19.977683518049883, -43.987382741571096"
+    },
+    {
+        "name": "Vila Paquetá",
+        "population": 703,
+        "area": 0.012,
+        "radius": 0.06180387232371033,
+        "coordinates": "-19.8662233738574, -43.99451051878079"
+    },
+    {
+        "name": "Vila Inestan",
+        "population": 701,
+        "area": 0.021,
+        "radius": 0.0817588381146626,
+        "coordinates": "-19.875359514730405, -43.94969813295494"
+    },
+    {
+        "name": "Vila São Gabriel Jacuí",
+        "population": 699,
+        "area": 0.035,
+        "radius": 0.10555020614111882
+    },
+    {
+        "name": "Vila Nova Cachoeirinha IV",
+        "population": 698,
+        "area": 0.019,
+        "radius": 0.07776816725043752,
+        "coordinates": "-19.88358068255348, -43.94828465485496"
+    },
+    {
+        "name": "Vila Real II",
+        "population": 683,
+        "area": 0.019,
+        "radius": 0.07776816725043752,
+        "coordinates": "-19.878945161153137, -43.954114120067835"
+    },
+    {
+        "name": "Vila Nossa Senhora do Rosário",
+        "population": 673,
+        "area": 0.028,
+        "radius": 0.09440697438826295,
+        "coordinates": "-19.909581511242795, -43.907005833261046"
+    },
+    {
+        "name": "Vila Santo Antônio Barroquinha",
+        "population": 667,
+        "area": 0.032,
+        "radius": 0.10092530088080641,
+        "coordinates": "-19.889830002585054, -44.01191240777089"
+    },
+    {
+        "name": "Vila Madre Gertrudes II",
+        "population": 666,
+        "area": 0.01,
+        "radius": 0.05641895835477563,
+        "coordinates": "-19.949481924201745, -44.00963078229096"
+    },
+    {
+        "name": "Bela Vitória",
+        "population": 664,
+        "area": 0.069,
+        "radius": 0.1482004795764223,
+        "coordinates": "-19.856755470430713, -43.89221602870957"
+    },
+    {
+        "name": "Vila Maloca",
+        "population": 663,
+        "area": 0.021,
+        "radius": 0.0817588381146626,
+        "coordinates": "-19.880110612288885, -43.95330311984176"
+    },
+    {
+        "name": "Conjunto Lagoa",
+        "population": 662,
+        "area": 0.073,
+        "radius": 0.15243563130520607,
+        "coordinates": "-19.86809832783955, -43.99901703013834"
+    },
+    {
+        "name": "Vila Suzana I",
+        "population": 646,
+        "area": 0.065,
+        "radius": 0.1438406847937898,
+        "coordinates": "-19.861878976552735, -43.93494020695236"
+    },
+    {
+        "name": "Distrito Industrial do Jatobá",
+        "population": 644,
+        "area": 0.979,
+        "radius": 0.558234161059614,
+        "coordinates": "-20.000615738974343, -44.03147605113906"
+    },
+    {
+        "name": "Pirineus",
+        "population": 636,
+        "area": 0.515,
+        "radius": 0.40488219445247553,
+        "coordinates": "-19.922675126757127, -43.89177250634333"
+    },
+    {
+        "name": "Vila Aeroporto Jaraguá",
+        "population": 618,
+        "area": 0.01,
+        "radius": 0.05641895835477563,
+        "coordinates": "-19.85648374015651, -43.95912059091011"
+    },
+    {
+        "name": "Vila Nova",
+        "population": 591,
+        "area": 0.017,
+        "radius": 0.07356132180109627,
+        "coordinates": "-19.802987344465635, -43.947655644529696"
+    },
+    {
+        "name": "Vila Ouro Minas",
+        "population": 588,
+        "area": 0.027,
+        "radius": 0.0927058084855655,
+        "coordinates": "-19.84673894608551, -43.911739394922236"
+    },
+    {
+        "name": "Três Marias",
+        "population": 587,
+        "area": 0.032,
+        "radius": 0.10092530088080641,
+        "coordinates": "-19.854284518059185, -43.901266238281956"
+    },
+    {
+        "name": "Vila Nova dos Milionários",
+        "population": 587,
+        "area": 0.012,
+        "radius": 0.06180387232371033,
+        "coordinates": "-19.982071020672223, -44.00117249059656"
+    },
+    {
+        "name": "Mirante",
+        "population": 565,
+        "area": 0.018,
+        "radius": 0.0756939756606048,
+        "coordinates": "-19.832741255684105, -43.91740572768937"
+    },
+    {
+        "name": "Vila Bandeirantes",
+        "population": 562,
+        "area": 0.019,
+        "radius": 0.07776816725043752,
+        "coordinates": "-19.950029560638054, -43.961196037924026"
+    },
+    {
+        "name": "Boa Esperança",
+        "population": 546,
+        "area": 0.017,
+        "radius": 0.07356132180109627,
+        "coordinates": "-19.85401024690827, -43.90372540078898"
+    },
+    {
+        "name": "Vila da Paz",
+        "population": 534,
+        "area": 0.018,
+        "radius": 0.0756939756606048,
+        "coordinates": "-19.880065777679558, -43.94743582785836"
+    },
+    {
+        "name": "Vila Calafate",
+        "population": 529,
+        "area": 0.021,
+        "radius": 0.0817588381146626,
+        "coordinates": "-19.924354022775205, -43.975660853980436"
+    },
+    {
+        "name": "São Vicente",
+        "population": 505,
+        "area": 0.015,
+        "radius": 0.06909882989426709,
+        "coordinates": "-19.916485107600696, -43.923282371284486"
+    },
+    {
+        "name": "Novo Ouro Preto",
+        "population": 502,
+        "area": 0.037,
+        "radius": 0.10852403323135505,
+        "coordinates": "-19.88392152831862, -43.98515941722237"
+    },
+    {
+        "name": "Canadá",
+        "population": 492,
+        "area": 0.092,
+        "radius": 0.17112717355495807,
+        "coordinates": "-19.797474434886084, -43.949369656409"
+    },
+    {
+        "name": "Antônio Ribeiro de Abreu",
+        "population": 484,
+        "area": 0.059,
+        "radius": 0.13704117368456697,
+        "coordinates": "-19.839242568099596, -43.905671327341814"
+    },
+    {
+        "name": "Satélite",
+        "population": 482,
+        "area": 0.14,
+        "radius": 0.21110041228223764,
+        "coordinates": "-19.81032189633693, -43.94999848123191"
+    },
+    {
+        "name": "Vila Antena Montanhês",
+        "population": 448,
+        "area": 0.027,
+        "radius": 0.0927058084855655,
+        "coordinates": "-19.895828117881397, -43.98775591329597"
+    },
+    {
+        "name": "Grotinha",
+        "population": 447,
+        "area": 0.023,
+        "radius": 0.08556358677747904,
+        "coordinates": "-19.851035888342, -43.893799769550164"
+    },
+    {
+        "name": "Cônego Pinheiro",
+        "population": 446,
+        "area": 0.015,
+        "radius": 0.06909882989426709,
+        "coordinates": "-19.919448040650902, -43.910043592047586"
+    },
+    {
+        "name": "Chácara Leonina",
+        "population": 434,
+        "area": 0.038,
+        "radius": 0.10998079684646792,
+        "coordinates": "-19.95493797724691, -43.96090536907477"
+    },
+    {
+        "name": "Vila Madre Gertrudes III",
+        "population": 421,
+        "area": 0.018,
+        "radius": 0.0756939756606048,
+        "coordinates": "-19.949481924201745, -44.00963078229096"
+    },
+    {
+        "name": "Vila São Gabriel",
+        "population": 420,
+        "area": 0.022,
+        "radius": 0.08368283871884004,
+        "coordinates": "-19.846625833721745, -43.91448992726502"
+    },
+    {
+        "name": "Vila Paraíso",
+        "population": 414,
+        "area": 0.026,
+        "radius": 0.0909728368293446,
+        "coordinates": "-19.948201200168132, -43.95341359915128"
+    },
+    {
+        "name": "Ápia",
+        "population": 405,
+        "area": 0.016,
+        "radius": 0.07136496464611085
+    },
+    {
+        "name": "Vila da Amizade",
+        "population": 402,
+        "area": 0.021,
+        "radius": 0.0817588381146626,
+        "coordinates": "-19.92454726641144, -43.98264172892448"
+    },
+    {
+        "name": "Alta Tensão",
+        "population": 397,
+        "area": 0.014,
+        "radius": 0.06675581178124546,
+        "coordinates": "-19.964003787605225, -44.001530297715576"
+    },
+    {
+        "name": "João Alfredo",
+        "population": 391,
+        "area": 0.018,
+        "radius": 0.0756939756606048,
+        "coordinates": "-19.908689467393618, -43.912641762519065"
+    },
+    {
+        "name": "Alto das Antenas",
+        "population": 384,
+        "area": 0.156,
+        "radius": 0.22283703068536734,
+        "coordinates": "-19.999121414064106, -43.990137062799256"
+    },
+    {
+        "name": "Maria Teresa",
+        "population": 373,
+        "area": 0.893,
+        "radius": 0.5331516935752197,
+        "coordinates": "-19.81889819554394, -43.888620823982144"
+    },
+    {
+        "name": "Caetano Furquim",
+        "population": 370,
+        "area": 0.025,
+        "radius": 0.08920620580763855,
+        "coordinates": "-19.903494351010906, -43.88953715612648"
+    },
+    {
+        "name": "Vila Independência IV",
+        "population": 368,
+        "area": 0.029,
+        "radius": 0.09607802401865856,
+        "coordinates": "-20.01644937023894, -44.03179615462386"
+    },
+    {
+        "name": "Unidas",
+        "population": 367,
+        "area": 0.011,
+        "radius": 0.05917270272703198
+    },
+    {
+        "name": "Vila Piratininga Venda Nova",
+        "population": 366,
+        "area": 0.009,
+        "radius": 0.05352372348458313,
+        "coordinates": "-19.81062550641205, -43.99392959951751"
+    },
+    {
+        "name": "São Sebastião",
+        "population": 356,
+        "area": 0.019,
+        "radius": 0.07776816725043752,
+        "coordinates": "-19.870444620227698, -43.94444162004738"
+    },
+    {
+        "name": "Nova Pampulha",
+        "population": 350,
+        "area": 0.039,
+        "radius": 0.11141851534268367,
+        "coordinates": "-19.83410291280898, -44.01748656324433"
+    },
+    {
+        "name": "Vila Havaí",
+        "population": 347,
+        "area": 0.009,
+        "radius": 0.05352372348458313,
+        "coordinates": "-19.961426165986055, -43.97177447931368"
+    },
+    {
+        "name": "Mirtes",
+        "population": 346,
+        "area": 0.013,
+        "radius": 0.06432750982580686,
+        "coordinates": "-19.84375305579615, -43.88480918747191"
+    },
+    {
+        "name": "Serra do Curral",
+        "population": 344,
+        "area": 17.517,
+        "radius": 2.3613204518407622,
+        "coordinates": "-20.0229005932007, -44.024436613802166"
+    },
+    {
+        "name": "Vila Sesc",
+        "population": 343,
+        "area": 0.02,
+        "radius": 0.07978845608028654,
+        "coordinates": "-19.801725749784122, -43.9773889864136"
+    },
+    {
+        "name": "Morro dos Macacos",
+        "population": 340,
+        "area": 0.015,
+        "radius": 0.06909882989426709,
+        "coordinates": "-19.875371805161336, -43.903969128247226"
+    },
+    {
+        "name": "Vila da Área",
+        "population": 337,
+        "area": 0.021,
+        "radius": 0.0817588381146626
+    },
+    {
+        "name": "Vila Santo Antônio",
+        "population": 335,
+        "area": 0.014,
+        "radius": 0.06675581178124546,
+        "coordinates": "-19.86170447484279, -43.958250310746706"
+    },
+    {
+        "name": "Flamengo",
+        "population": 328,
+        "area": 0.016,
+        "radius": 0.07136496464611085,
+        "coordinates": "-19.805839399412204, -43.991135215593076"
+    },
+    {
+        "name": "Gameleira",
+        "population": 328,
+        "area": 1.017,
+        "radius": 0.5689649850816086,
+        "coordinates": "-19.933773489697533, -43.993619180614125"
+    },
+    {
+        "name": "Vila Copasa",
+        "population": 321,
+        "area": 0.01,
+        "radius": 0.05641895835477563,
+        "coordinates": "-19.982236596404512, -44.00653781959191"
+    },
+    {
+        "name": "São Damião",
+        "population": 320,
+        "area": 0.217,
+        "radius": 0.26281789380078857,
+        "coordinates": "-19.78488448727025, -43.94757740422432"
+    },
+    {
+        "name": "Custodinha",
+        "population": 319,
+        "area": 0.009,
+        "radius": 0.05352372348458313,
+        "coordinates": "-19.948936833544042, -44.00748412432639"
+    },
+    {
+        "name": "Boa União I",
+        "population": 309,
+        "area": 0.007,
+        "radius": 0.04720348719413148,
+        "coordinates": "-19.86286290458253, -43.92793273569647"
+    },
+    {
+        "name": "Conjunto São Francisco de Assis",
+        "population": 300,
+        "area": 0.014,
+        "radius": 0.06675581178124546,
+        "coordinates": "-19.830895589792526, -44.01183412336533"
+    },
+    {
+        "name": "Vila Petrópolis",
+        "population": 298,
+        "area": 0.011,
+        "radius": 0.05917270272703198,
+        "coordinates": "-20.013890661589773, -44.02975541724003"
+    },
+    {
+        "name": "Conjunto Providência",
+        "population": 283,
+        "area": 0.014,
+        "radius": 0.06675581178124546,
+        "coordinates": "-19.853594245686345, -43.92624409639757"
+    },
+    {
+        "name": "Marieta II",
+        "population": 277,
+        "area": 0.008,
+        "radius": 0.050462650440403205,
+        "coordinates": "-19.992436136226342, -44.03912251833977"
+    },
+    {
+        "name": "Vila Engenho Nogueira",
+        "population": 263,
+        "area": 0.023,
+        "radius": 0.08556358677747904,
+        "coordinates": "-19.889607381393454, -43.98561614187033"
+    },
+    {
+        "name": "Vila Jardim Montanhês",
+        "population": 259,
+        "area": 0.031,
+        "radius": 0.0993358267278101,
+        "coordinates": "-19.897914096831865, -43.98541643923154"
+    },
+    {
+        "name": "Vila das Oliveiras",
+        "population": 241,
+        "area": 0.012,
+        "radius": 0.06180387232371033
+    },
+    {
+        "name": "Conjunto Serra Verde",
+        "population": 240,
+        "area": 0.015,
+        "radius": 0.06909882989426709,
+        "coordinates": "-19.793453674975662, -43.95525009178661"
+    },
+    {
+        "name": "Camponesa III",
+        "population": 236,
+        "area": 0.026,
+        "radius": 0.0909728368293446
+    },
+    {
+        "name": "Vila Jardim Leblon",
+        "population": 225,
+        "area": 0.01,
+        "radius": 0.05641895835477563,
+        "coordinates": "-19.822213570315053, -43.99088294733211"
+    },
+    {
+        "name": "Vila Tirol",
+        "population": 208,
+        "area": 0.008,
+        "radius": 0.050462650440403205,
+        "coordinates": "-19.983828836136876, -44.035936696568434"
+    },
+    {
+        "name": "Barão Homem de Melo III",
+        "population": 207,
+        "area": 0.008,
+        "radius": 0.050462650440403205,
+        "coordinates": "-19.938415522937706, -43.97339103945288"
+    },
+    {
+        "name": "CDI Jatobá",
+        "population": 204,
+        "area": 0.874,
+        "radius": 0.527449372475343,
+        "coordinates": "-20.00080805868345, -44.04614324744048"
+    },
+    {
+        "name": "Vila Madre Gertrudes V",
+        "population": 201,
+        "area": 0.013,
+        "radius": 0.06432750982580686,
+        "coordinates": "-19.949481924201745, -44.00963078229096"
+    },
+    {
+        "name": "Vila Rica",
+        "population": 200,
+        "area": 0.029,
+        "radius": 0.09607802401865856,
+        "coordinates": "-19.855627523842298, -43.954626704105806"
+    },
+    {
+        "name": "Grota",
+        "population": 195,
+        "area": 0.01,
+        "radius": 0.05641895835477563,
+        "coordinates": "-19.90093822937957, -43.89981444950782"
+    },
+    {
+        "name": "Vila Betânia",
+        "population": 195,
+        "area": 0.02,
+        "radius": 0.07978845608028654
+    },
+    {
+        "name": "Vila São Dimas",
+        "population": 194,
+        "area": 0.01,
+        "radius": 0.05641895835477563,
+        "coordinates": "-19.85981243766215, -43.921138891766574"
+    },
+    {
+        "name": "Vila Batik",
+        "population": 192,
+        "area": 0.012,
+        "radius": 0.06180387232371033,
+        "coordinates": "-20.001343924496958, -44.04264361126628"
+    },
+    {
+        "name": "Barão Homem de Melo IV",
+        "population": 189,
+        "area": 0.065,
+        "radius": 0.1438406847937898,
+        "coordinates": "-19.938415522937706, -43.97339103945288"
+    },
+    {
+        "name": "Vila Ipiranga",
+        "population": 187,
+        "area": 0.005,
+        "radius": 0.03989422804014327,
+        "coordinates": "-19.8872586328623, -43.933889964266506"
+    },
+    {
+        "name": "Vila São Geraldo",
+        "population": 182,
+        "area": 0.005,
+        "radius": 0.03989422804014327,
+        "coordinates": "-19.89571379955506, -43.89913933422303"
+    },
+    {
+        "name": "Boa União II",
+        "population": 177,
+        "area": 0.013,
+        "radius": 0.06432750982580686,
+        "coordinates": "-19.86286290458253, -43.92793273569647"
+    },
+    {
+        "name": "Cidade Jardim Taquaril",
+        "population": 173,
+        "area": 2.083,
+        "radius": 0.8142723702305243,
+        "coordinates": "-19.928638593877764, -43.88645773867012"
+    },
+    {
+        "name": "Nossa Senhora do Rosário",
+        "population": 173,
+        "area": 0.162,
+        "radius": 0.2270819269818144,
+        "coordinates": "-19.934033257578324, -43.91688533565162"
+    },
+    {
+        "name": "Vila Canto do Sabiá",
+        "population": 173,
+        "area": 0.017,
+        "radius": 0.07356132180109627,
+        "coordinates": "-19.824459476921852, -43.958517707949376"
+    },
+    {
+        "name": "Laranjeiras",
+        "population": 163,
+        "area": 0.018,
+        "radius": 0.0756939756606048
+    },
+    {
+        "name": "Pindura Saia",
+        "population": 153,
+        "area": 0.004,
+        "radius": 0.035682482323055424,
+        "coordinates": "-19.944100033653665, -43.92693474434485"
+    },
+    {
+        "name": "Vila Nova Cachoeirinha II",
+        "population": 145,
+        "area": 0.007,
+        "radius": 0.04720348719413148,
+        "coordinates": "-19.88358068255348, -43.94828465485496"
+    },
+    {
+        "name": "Vila do Pombal",
+        "population": 142,
+        "area": 0.004,
+        "radius": 0.035682482323055424,
+        "coordinates": "-19.896479807259844, -43.93976262684178"
+    },
+    {
+        "name": "Santa Isabel",
+        "population": 139,
+        "area": 0.006,
+        "radius": 0.043701937223683165,
+        "coordinates": "-19.942168909861095, -43.924100090612924"
+    },
+    {
+        "name": "Vila Satélite",
+        "population": 128,
+        "area": 0.008,
+        "radius": 0.050462650440403205,
+        "coordinates": "-19.816567039470375, -43.9506683550322"
+    },
+    {
+        "name": "Várzea da Palma",
+        "population": 125,
+        "area": 0.006,
+        "radius": 0.043701937223683165,
+        "coordinates": "-19.82450384815263, -43.98634057766381"
+    },
+    {
+        "name": "Camponesa I",
+        "population": 122,
+        "area": 0.02,
+        "radius": 0.07978845608028654
+    },
+    {
+        "name": "Vila Real I",
+        "population": 109,
+        "area": 0.002,
+        "radius": 0.025231325220201602,
+        "coordinates": "-19.878945161153137, -43.954114120067835"
+    },
+    {
+        "name": "Bacurau",
+        "population": 104,
+        "area": 0.004,
+        "radius": 0.035682482323055424,
+        "coordinates": "-19.826504301909956, -43.945621442333774"
+    },
+    {
+        "name": "Nova América",
+        "population": 99,
+        "area": 0.005,
+        "radius": 0.03989422804014327,
+        "coordinates": "-19.795734816650636, -43.98922663041761"
+    },
+    {
+        "name": "Vila Nova Gameleira III",
+        "population": 95,
+        "area": 0.015,
+        "radius": 0.06909882989426709,
+        "coordinates": "-19.94027978365228, -43.998211181952854"
+    },
+    {
+        "name": "Lorena",
+        "population": 91,
+        "area": 0.005,
+        "radius": 0.03989422804014327,
+        "coordinates": "-19.91617934277428, -43.98495349269354"
+    },
+    {
+        "name": "Vila Puc",
+        "population": 89,
+        "area": 0.004,
+        "radius": 0.035682482323055424,
+        "coordinates": "-19.92005910497561, -43.99479084514991"
+    },
+    {
+        "name": "Vila Fumec",
+        "population": 72,
+        "area": 0.003,
+        "radius": 0.030901936161855166,
+        "coordinates": "-19.94416962799072, -43.9247286172113"
+    },
+    {
+        "name": "Vila São Francisco",
+        "population": 69,
+        "area": 0.003,
+        "radius": 0.030901936161855166,
+        "coordinates": "-19.880520398405462, -43.963195514595974"
+    },
+    {
+        "name": "Mala e Cuia",
+        "population": 60,
+        "area": 0.002,
+        "radius": 0.025231325220201602,
+        "coordinates": "-19.949147017331615, -43.93521857696435"
+    },
+    {
+        "name": "Vila Suzana II",
+        "population": 60,
+        "area": 0.003,
+        "radius": 0.030901936161855166,
+        "coordinates": "-19.861878976552735, -43.93494020695236"
+    },
+    {
+        "name": "Maravilha",
+        "population": 56,
+        "area": 0.004,
+        "radius": 0.035682482323055424,
+        "coordinates": "-19.93557094442345, -44.017331872928054"
+    },
+    {
+        "name": "Cônego Pinheiro A",
+        "population": 43,
+        "area": 0.008,
+        "radius": 0.050462650440403205,
+        "coordinates": "-19.919448040650902, -43.910043592047586"
+    },
+    {
+        "name": "Baleia",
+        "population": 17,
+        "area": 3.552,
+        "radius": 1.0633140249826598,
+        "coordinates": "-19.928440737155444, -43.90315644951486"
+    },
+    {
+        "name": "Xangri-lá",
+        "population": 8,
+        "area": 0.526,
+        "radius": 0.4091833331560242,
+        "coordinates": "-19.837702480423673, -44.01973214888666"
+    },
+    {
+        "name": "Belém",
+        "population": 0,
+        "area": 0.002,
+        "radius": 0.025231325220201602,
+        "coordinates": "-19.91334316005614, -43.90094559080237"
+    },
+    {
+        "name": "Bispo de Maura",
+        "population": 0,
+        "area": 0.017,
+        "radius": 0.07356132180109627,
+        "coordinates": "-19.826312037623186, -44.01348132208685"
+    },
+    {
+        "name": "Campus UFMG",
+        "population": 0,
+        "area": 3.85,
+        "radius": 1.1070199012698887,
+        "coordinates": "-19.884672087293133, -43.97191107083579"
+    },
+    {
+        "name": "Guanabara",
+        "population": 0,
+        "area": 0.002,
+        "radius": 0.025231325220201602,
+        "coordinates": "-19.861654547066223, -43.898474777367696"
+    },
+    {
+        "name": "Lagoa da Pampulha",
+        "population": 0,
+        "area": 3.138,
+        "radius": 0.999428047857741,
+        "coordinates": "-19.852154277007596, -44.0012438870563"
+    },
+    {
+        "name": "Sumaré",
+        "population": 0,
+        "area": 0.149,
+        "radius": 0.21778010249190538,
+        "coordinates": "-19.88844664834017, -43.967649398214355"
+    },
+    {
+        "name": "Vila Vera Cruz I",
+        "population": 0,
+        "area": 0.008,
+        "radius": 0.050462650440403205,
+        "coordinates": "-19.90734079011312, -43.898628223543476"
+    },
+    {
+        "name": "Vila Vera Cruz II",
+        "population": 0,
+        "area": 0.001,
+        "radius": 0.017841241161527712,
+        "coordinates": "-19.90734079011312, -43.898628223543476"
+    }
+]
